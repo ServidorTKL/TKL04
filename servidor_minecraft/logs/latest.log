@@ -1,0 +1,22 @@
+[29Nov2024 03:30:08.535] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[29Nov2024 03:30:08.543] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[29Nov2024 03:30:09.600] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[29Nov2024 03:30:09.616] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[29Nov2024 03:30:09.618] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/ServidorTKL-1-/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar%23127!/
+[29Nov2024 03:30:09.626] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/ServidorTKL-1-/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar
+[29Nov2024 03:30:09.628] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[29Nov2024 03:30:09.746] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ServidorTKL-1-/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[29Nov2024 03:30:09.757] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[29Nov2024 03:30:10.169] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServidorTKL-1-/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.0/fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
+[29Nov2024 03:30:10.171] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServidorTKL-1-/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.0/javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[29Nov2024 03:30:10.173] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServidorTKL-1-/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.0/lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[29Nov2024 03:30:10.177] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServidorTKL-1-/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.0/mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[29Nov2024 03:30:10.404] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
+[29Nov2024 03:30:11.255] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[29Nov2024 03:30:11.268] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[29Nov2024 03:30:12.409] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[29Nov2024 03:30:14.124] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[29Nov2024 03:30:14.233] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[29Nov2024 03:30:14.328] [main/WARN] [mixin/]: Reference map 'smallships-forge-refmap.json' for smallships.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Nov2024 03:30:14.336] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Nov2024 03:30:17.212] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
