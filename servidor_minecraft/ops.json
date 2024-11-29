@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "d910672d-86f3-3364-9a63-ebe964418efe",
+    "name": "Rockmero",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
