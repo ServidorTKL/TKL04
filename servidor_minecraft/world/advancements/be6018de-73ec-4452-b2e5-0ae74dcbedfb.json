@@ -3429,15 +3429,15 @@
     },
     "done": true
   },
-  "mca:friend": {
-    "criteria": {
-      "baby": "2024-11-28 04:05:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2024-11-28 03:52:42 +0000"
+    },
+    "done": true
+  },
+  "mca:friend": {
+    "criteria": {
+      "baby": "2024-11-28 04:05:34 +0000"
     },
     "done": true
   },
