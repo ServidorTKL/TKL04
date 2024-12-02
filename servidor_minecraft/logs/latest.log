@@ -568,3 +568,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [02Dec2024 04:00:35.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [A Seedy Place]
 [02Dec2024 04:00:35.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Planting the Past]
 [02Dec2024 04:05:10.737] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[02Dec2024 04:07:56.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo was slain by Wither Skeleton
+[02Dec2024 04:08:38.981] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[02Dec2024 04:10:59.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo has made the advancement [Jennifer Dumped Me]
+[02Dec2024 04:11:50.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo has made the advancement [Mine? Mine? Mine?]
