@@ -3960,3 +3960,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [02Dec2024 03:37:43.170] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Dec2024 03:42:43.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Dec2024 03:42:43.200] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 03:47:43.358] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 03:47:43.383] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 03:48:23.720] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[02Dec2024 03:49:16.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Jennifer Dumped Me]
+[02Dec2024 03:51:28.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo was slain by Cachalot Whale
+[02Dec2024 03:52:34.631] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[02Dec2024 03:52:43.289] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 03:52:43.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 03:54:15.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Enchanter]
