@@ -545,3 +545,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [02Dec2024 02:28:03.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Suit Up]
 [02Dec2024 02:29:09.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Not Today, Thank You]
 [02Dec2024 02:29:32.146] [Worker-Main-21/ERROR] [net.minecraft.world.level.levelgen.feature.MonsterRoomFeature/]: Failed to fetch mob spawner entity at (287, -2, -740)
+[02Dec2024 02:31:58.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has reached the goal [Crystal Pioneer]
+[02Dec2024 02:32:05.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo has reached the goal [Crystal Pioneer]
+[02Dec2024 02:33:58.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo has made the advancement [Shiny Object Syndrome]
+[02Dec2024 02:34:03.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Shiny Object Syndrome]
