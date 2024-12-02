@@ -3553,6 +3553,12 @@
     },
     "done": true
   },
+  "ancient_elements:hammer_time": {
+    "criteria": {
+      "hammer_time": "2024-12-02 03:07:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-02 02:34:24 +0000"
