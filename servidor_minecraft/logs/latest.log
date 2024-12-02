@@ -542,3 +542,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [02Dec2024 02:18:33.742] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [02Dec2024 02:19:13.871] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonimelalabo[/127.173.194.212:56161] logged in with entity id 929 at (134.33636703845247, 27.0, -477.69999998807907)
 [02Dec2024 02:19:13.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo joined the game
+[02Dec2024 02:28:03.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Suit Up]
+[02Dec2024 02:29:09.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Not Today, Thank You]
+[02Dec2024 02:29:32.146] [Worker-Main-21/ERROR] [net.minecraft.world.level.levelgen.feature.MonsterRoomFeature/]: Failed to fetch mob spawner entity at (287, -2, -740)

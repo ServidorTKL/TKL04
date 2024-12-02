@@ -3908,3 +3908,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [02Dec2024 02:19:13.871] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonimelalabo[/127.173.194.212:56161] logged in with entity id 929 at (134.33636703845247, 27.0, -477.69999998807907)
 [02Dec2024 02:19:13.889] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@5d134e73 into net.minecraft.network.Connection@44eae479
 [02Dec2024 02:19:13.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo joined the game
+[02Dec2024 02:22:43.272] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 02:22:43.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 02:27:43.243] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 02:27:43.276] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 02:28:03.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Suit Up]
+[02Dec2024 02:29:09.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Not Today, Thank You]
+[02Dec2024 02:29:32.146] [Worker-Main-21/ERROR] [net.minecraft.world.level.levelgen.feature.MonsterRoomFeature/]: Failed to fetch mob spawner entity at (287, -2, -740)
