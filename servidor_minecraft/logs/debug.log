@@ -3969,3 +3969,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [02Dec2024 03:52:43.289] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Dec2024 03:52:43.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Dec2024 03:54:15.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Enchanter]
+[02Dec2024 03:57:43.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 03:57:43.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 04:00:35.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [A Seedy Place]
+[02Dec2024 04:00:35.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Planting the Past]
+[02Dec2024 04:02:43.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 04:02:43.101] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 04:05:10.737] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
