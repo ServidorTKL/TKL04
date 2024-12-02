@@ -549,3 +549,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [02Dec2024 02:32:05.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo has reached the goal [Crystal Pioneer]
 [02Dec2024 02:33:58.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo has made the advancement [Shiny Object Syndrome]
 [02Dec2024 02:34:03.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Shiny Object Syndrome]
+[02Dec2024 02:41:19.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Cover Me with Diamonds]
+[02Dec2024 02:44:17.982] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[02Dec2024 02:49:42.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo has made the advancement [Cover Me with Diamonds]
