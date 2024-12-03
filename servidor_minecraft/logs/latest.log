@@ -444,3 +444,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [03Dec2024 18:30:19.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rockmero: Teleported Rockmero to -19.500000, 78.000000, -115.500000]
 [03Dec2024 18:30:48.169] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4263ms or 85 ticks behind
 [03Dec2024 18:35:37.107] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Dec2024 18:55:41.856] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Dec2024 18:57:32.207] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already

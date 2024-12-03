@@ -4643,15 +4643,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-03 18:47:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-03 18:47:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-03 18:47:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bamboo_planks": {
     "criteria": {
       "has_logs": "2024-12-03 18:20:11 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-03 18:47:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-03 18:47:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/bamboo_sign": {
     "criteria": {
       "has_planks": "2024-12-03 18:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-03 18:47:54 +0000"
     },
     "done": true
   },
@@ -4673,6 +4709,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-03 18:47:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/bamboo_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-03 18:20:16 +0000"
@@ -4685,15 +4727,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-03 18:47:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-03 18:47:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/bamboo_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-12-03 18:21:34 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-03 18:47:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/bamboo_button": {
     "criteria": {
       "has_planks": "2024-12-03 18:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-03 18:47:54 +0000"
     },
     "done": true
   },
@@ -4706,6 +4772,12 @@
   "minecraft:recipes/building_blocks/bamboo_stairs": {
     "criteria": {
       "has_planks": "2024-12-03 18:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-03 18:47:54 +0000"
     },
     "done": true
   },
