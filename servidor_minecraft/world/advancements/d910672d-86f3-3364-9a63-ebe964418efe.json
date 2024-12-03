@@ -390,6 +390,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-12-01 02:34:13 +0000",
+      "minecraft:bamboo_jungle": "2024-12-03 02:31:59 +0000",
       "minecraft:beach": "2024-12-01 02:32:22 +0000",
       "minecraft:sparse_jungle": "2024-12-01 02:36:55 +0000",
       "minecraft:river": "2024-12-01 02:34:58 +0000",

@@ -1408,6 +1408,7 @@
       "minecraft:skeleton": "2024-12-01 03:05:33 +0000",
       "minecraft:magma_cube": "2024-12-01 22:59:57 +0000",
       "minecraft:spider": "2024-12-01 22:54:56 +0000",
+      "minecraft:creeper": "2024-12-03 02:47:30 +0000",
       "minecraft:slime": "2024-12-01 03:25:05 +0000",
       "minecraft:wither_skeleton": "2024-12-02 02:48:58 +0000",
       "minecraft:cave_spider": "2024-12-02 02:27:17 +0000",
@@ -3526,6 +3527,66 @@
   "alexsmobs:alexsmobs/bison_spyglass": {
     "criteria": {
       "spyglass_at_bison": "2024-12-03 02:18:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-12-03 02:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2024-12-03 02:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2024-12-03 02:50:04 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2024-12-03 02:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-03 02:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-12-03 02:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-03 02:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-12-03 02:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-03 02:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-12-03 02:50:04 +0000"
     },
     "done": true
   },
