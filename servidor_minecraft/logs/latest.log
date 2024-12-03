@@ -471,3 +471,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [03Dec2024 03:06:33.518] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [03Dec2024 03:07:49.318] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
 [03Dec2024 03:09:13.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo has made the advancement [Pic-A-Nic Basket?]
+[03Dec2024 03:24:34.270] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[03Dec2024 03:24:38.917] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[03Dec2024 03:33:15.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Mine? Mine? Mine?]
+[03Dec2024 03:43:05.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Diamonds!]
