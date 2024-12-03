@@ -458,3 +458,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [03Dec2024 02:47:28.961] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [03Dec2024 02:50:37.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
 [03Dec2024 02:51:58.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo moved too quickly! 8.765474358493691,-5.0,0.29421706911455203
+[03Dec2024 02:57:19.419] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo lost connection: Disconnected
+[03Dec2024 02:57:19.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo left the game
+[03Dec2024 02:57:19.568] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Dec2024 02:57:28.328] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rockmero lost connection: Timed out
+[03Dec2024 02:57:28.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero left the game
+[03Dec2024 02:57:47.407] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rockmero[/127.151.115.192:60601] logged in with entity id 3587 at (-122.04478661020747, 64.0, -886.7198074325202)
+[03Dec2024 02:57:47.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero joined the game
+[03Dec2024 02:59:08.241] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonimelalabo[/127.173.194.212:34705] logged in with entity id 4249 at (-168.67885058442027, 74.76636799395752, -922.7988433611074)
+[03Dec2024 02:59:08.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo joined the game
