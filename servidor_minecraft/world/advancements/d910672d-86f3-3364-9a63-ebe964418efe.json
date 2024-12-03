@@ -4222,6 +4222,12 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "swamp_hut": "2024-12-03 03:57:44 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2024-12-03 03:15:55 +0000"

@@ -478,3 +478,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [03Dec2024 03:44:21.317] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
 [03Dec2024 03:50:58.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3008ms or 60 ticks behind
 [03Dec2024 03:51:25.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[03Dec2024 03:55:34.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[03Dec2024 03:56:09.337] [Worker-Main-10/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (-6016, 18, 5369)
+[03Dec2024 03:56:09.339] [Worker-Main-10/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (-6015, 18, 5366)
+[03Dec2024 03:56:09.340] [Worker-Main-10/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (-6015, 18, 5362)
+[03Dec2024 03:59:22.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo has made the advancement [Friendship Found]
+[03Dec2024 04:01:09.500] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-6053, y=-14, z=5488}
+[03Dec2024 04:03:03.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonimelalabo> -8992 ~ 4640
+[03Dec2024 04:03:24.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Alex's Mobs]
+[03Dec2024 04:03:41.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonimelalabo> -3264 ~ 5776
