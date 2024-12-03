@@ -390,14 +390,17 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-12-01 02:34:13 +0000",
+      "minecraft:windswept_hills": "2024-12-03 04:01:06 +0000",
       "minecraft:bamboo_jungle": "2024-12-03 02:31:59 +0000",
       "minecraft:beach": "2024-12-01 02:32:22 +0000",
       "minecraft:sparse_jungle": "2024-12-01 02:36:55 +0000",
       "minecraft:river": "2024-12-01 02:34:58 +0000",
       "minecraft:lukewarm_ocean": "2024-12-01 23:17:47 +0000",
+      "minecraft:stony_shore": "2024-12-03 04:24:00 +0000",
       "minecraft:dripstone_caves": "2024-12-01 03:14:56 +0000",
       "minecraft:swamp": "2024-12-01 02:50:14 +0000",
       "minecraft:forest": "2024-12-01 03:02:01 +0000",
+      "minecraft:meadow": "2024-12-03 04:29:51 +0000",
       "minecraft:plains": "2024-12-01 02:37:20 +0000"
     },
     "done": false
@@ -681,6 +684,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-12-02 02:24:20 +0000",
+      "baked_potato": "2024-12-03 04:29:39 +0000",
       "potato": "2024-12-02 02:19:10 +0000",
       "bread": "2024-12-01 02:49:10 +0000",
       "rotten_flesh": "2024-12-01 02:42:43 +0000"
@@ -938,7 +942,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-03 04:21:12 +0000",
       "minecraft:skeleton": "2024-12-01 03:44:25 +0000",
+      "minecraft:vindicator": "2024-12-03 04:21:10 +0000",
       "minecraft:magma_cube": "2024-12-01 02:49:47 +0000",
       "minecraft:spider": "2024-12-02 00:23:58 +0000",
       "minecraft:creeper": "2024-12-01 02:53:49 +0000",
@@ -4222,11 +4228,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-03 04:23:13 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
-      "swamp_hut": "2024-12-03 03:57:44 +0000"
+      "swamp_hut": "2024-12-03 03:57:44 +0000",
+      "illager_camp": "2024-12-03 04:21:22 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-03 04:23:13 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
     "criteria": {
@@ -4270,6 +4289,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-12-03 04:03:24 +0000"
+    },
+    "done": true
+  },
   "shieldexp:recipes/diamond_shield": {
     "criteria": {
       "has_diamond": "2024-12-03 03:43:05 +0000"
@@ -4288,9 +4313,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-03 04:23:13 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
-      "entered_deep_crypt": "2024-12-03 03:15:55 +0000"
+      "entered_stables": "2024-12-03 04:24:23 +0000",
+      "entered_deep_crypt": "2024-12-03 03:15:55 +0000",
+      "entered_ruined_building": "2024-12-03 04:12:44 +0000"
     },
     "done": false
   },
@@ -4342,6 +4375,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-03 04:23:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-03 03:43:05 +0000"
@@ -4354,15 +4393,57 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-03 04:26:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-03 04:23:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
     "criteria": {
       "has_deepslate_tiles": "2024-12-03 03:15:55 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-03 04:23:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-12-03 03:43:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2024-12-03 04:05:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-03 04:23:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-03 04:23:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-03 04:23:13 +0000"
     },
     "done": true
   },
@@ -4384,9 +4465,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2024-12-03 04:14:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-03 03:12:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-03 04:23:08 +0000"
     },
     "done": true
   },
@@ -4429,6 +4522,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-03 03:12:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-03 04:23:13 +0000"
     },
     "done": true
   },

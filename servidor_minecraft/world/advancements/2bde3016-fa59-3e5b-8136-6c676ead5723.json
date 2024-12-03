@@ -395,9 +395,11 @@
       "minecraft:sparse_jungle": "2024-12-01 02:41:58 +0000",
       "minecraft:river": "2024-12-01 02:41:11 +0000",
       "minecraft:lukewarm_ocean": "2024-12-01 23:17:48 +0000",
+      "minecraft:stony_shore": "2024-12-03 04:32:05 +0000",
       "minecraft:dripstone_caves": "2024-12-01 03:09:51 +0000",
       "minecraft:swamp": "2024-12-01 02:50:19 +0000",
       "minecraft:forest": "2024-12-01 02:36:59 +0000",
+      "minecraft:meadow": "2024-12-03 04:29:49 +0000",
       "minecraft:plains": "2024-12-01 02:42:10 +0000"
     },
     "done": false
@@ -1410,11 +1412,14 @@
       "minecraft:spider": "2024-12-01 22:54:56 +0000",
       "minecraft:creeper": "2024-12-03 02:47:30 +0000",
       "minecraft:slime": "2024-12-01 03:25:05 +0000",
+      "minecraft:phantom": "2024-12-03 04:22:59 +0000",
+      "minecraft:witch": "2024-12-03 04:08:50 +0000",
       "minecraft:wither_skeleton": "2024-12-02 02:48:58 +0000",
       "minecraft:cave_spider": "2024-12-02 02:27:17 +0000",
       "minecraft:stray": "2024-12-02 02:38:54 +0000",
       "minecraft:enderman": "2024-12-03 02:19:45 +0000",
-      "minecraft:zombie": "2024-12-01 03:09:59 +0000"
+      "minecraft:zombie": "2024-12-01 03:09:59 +0000",
+      "minecraft:drowned": "2024-12-03 04:26:14 +0000"
     },
     "done": false
   },
@@ -3614,6 +3619,12 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2024-12-03 04:21:21 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2024-12-03 03:29:55 +0000"
@@ -3646,7 +3657,9 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
-      "entered_deep_crypt": "2024-12-03 03:15:57 +0000"
+      "entered_stables": "2024-12-03 04:24:30 +0000",
+      "entered_deep_crypt": "2024-12-03 03:15:57 +0000",
+      "entered_ruined_building": "2024-12-03 04:12:32 +0000"
     },
     "done": false
   },
@@ -3680,6 +3693,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-03 04:21:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2024-12-03 03:29:55 +0000"
@@ -3704,9 +3723,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-03 04:21:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-03 03:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-03 04:31:29 +0000"
     },
     "done": true
   },
@@ -3725,6 +3756,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-03 03:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-03 04:21:48 +0000"
     },
     "done": true
   },

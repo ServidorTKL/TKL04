@@ -487,3 +487,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [03Dec2024 04:03:03.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonimelalabo> -8992 ~ 4640
 [03Dec2024 04:03:24.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Alex's Mobs]
 [03Dec2024 04:03:41.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonimelalabo> -3264 ~ 5776
+[03Dec2024 04:04:43.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonimelalabo> -8992 ~ 4640
+[03Dec2024 04:14:16.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Pic-A-Nic Basket?]
+[03Dec2024 04:19:47.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo moved too quickly! -9.868497103033405,2.0,0.07217792355459096
+[03Dec2024 04:19:47.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rockmero moved too quickly! -9.624229383049169,2.580000013113022,1.8307599512818342
+[03Dec2024 04:19:47.125] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3609ms or 72 ticks behind
+[03Dec2024 04:20:34.059] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2993ms or 59 ticks behind
+[03Dec2024 04:20:43.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rockmero moved too quickly! -6.843904651735102,-7.078400001525878,-2.143828526998732
+[03Dec2024 04:26:09.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Ol' Betsy]
+[03Dec2024 04:30:06.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[03Dec2024 04:37:00.267] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[03Dec2024 04:37:19.759] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 04:38:54.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rockmero moved too quickly! -9.351719673877597,-2.0,-3.7834033402723435
+[03Dec2024 04:38:54.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo moved too quickly! -1.3030842301532175,-1.0,-10.087298615688269
+[03Dec2024 04:38:54.934] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3918ms or 78 ticks behind
+[03Dec2024 04:40:16.363] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2897ms or 57 ticks behind
+[03Dec2024 04:42:03.878] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=12, y=-58, z=24}
+[03Dec2024 04:42:03.881] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=13, y=-58, z=25}
+[03Dec2024 04:42:44.530] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[03Dec2024 04:43:22.118] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
