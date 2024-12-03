@@ -709,9 +709,10 @@
       "minecraft:crimson_forest": "2024-12-01 02:46:31 +0000",
       "minecraft:nether_wastes": "2024-12-01 02:44:30 +0000",
       "minecraft:soul_sand_valley": "2024-12-01 02:42:47 +0000",
-      "minecraft:basalt_deltas": "2024-12-01 02:48:13 +0000"
+      "minecraft:basalt_deltas": "2024-12-01 02:48:13 +0000",
+      "minecraft:warped_forest": "2024-12-03 18:26:19 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
@@ -4639,6 +4640,72 @@
   "nova_structures:adventure/find_pillager_outpost": {
     "criteria": {
       "minecraft:pillager_outpost": "2024-12-03 04:52:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2024-12-03 18:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_sign": {
+    "criteria": {
+      "has_planks": "2024-12-03 18:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_door": {
+    "criteria": {
+      "has_planks": "2024-12-03 18:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_fence": {
+    "criteria": {
+      "has_planks": "2024-12-03 18:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-03 18:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-03 18:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_slab": {
+    "criteria": {
+      "has_planks": "2024-12-03 18:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-03 18:21:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_button": {
+    "criteria": {
+      "has_planks": "2024-12-03 18:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-03 18:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-03 18:20:16 +0000"
     },
     "done": true
   },
