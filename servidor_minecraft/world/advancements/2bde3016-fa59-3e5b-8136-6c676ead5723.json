@@ -398,6 +398,7 @@
       "minecraft:stony_shore": "2024-12-03 04:32:05 +0000",
       "minecraft:dripstone_caves": "2024-12-01 03:09:51 +0000",
       "minecraft:swamp": "2024-12-01 02:50:19 +0000",
+      "minecraft:cold_ocean": "2024-12-04 04:05:17 +0000",
       "minecraft:forest": "2024-12-01 02:36:59 +0000",
       "minecraft:windswept_forest": "2024-12-04 03:39:37 +0000",
       "minecraft:meadow": "2024-12-03 04:29:49 +0000",
@@ -1413,6 +1414,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-03 04:53:49 +0000",
       "minecraft:skeleton": "2024-12-01 03:05:33 +0000",
+      "minecraft:vindicator": "2024-12-04 04:14:52 +0000",
       "minecraft:magma_cube": "2024-12-01 22:59:57 +0000",
       "minecraft:spider": "2024-12-01 22:54:56 +0000",
       "minecraft:creeper": "2024-12-03 02:47:30 +0000",
@@ -3853,6 +3855,12 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_the_recipe": "2024-12-04 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-04 04:08:49 +0000"
     },
     "done": true
   },

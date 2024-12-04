@@ -1079,3 +1079,34 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [04Dec2024 03:54:09.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Who's the Pillager Now?]
 [04Dec2024 03:54:35.512] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
 [04Dec2024 03:55:10.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonimelalabo> -9456 ~ 3632
+[04Dec2024 03:59:22.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheRauli626 has made the advancement [Intruder Alert]
+[04Dec2024 03:59:57.234] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[04Dec2024 04:00:53.764] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[04Dec2024 04:01:45.909] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[04Dec2024 04:02:06.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonimelalabo> -9616 ~ 3392
+[04Dec2024 04:03:10.329] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Dec2024 04:03:24.568] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[04Dec2024 04:03:41.394] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Dec2024 04:03:58.237] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[04Dec2024 04:04:07.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[04Dec2024 04:06:01.808] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[04Dec2024 04:07:35.019] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[04Dec2024 04:08:49.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo has made the advancement [Voluntary Exile]
+[04Dec2024 04:10:09.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rockmero moved too quickly! -8.856596266927426,5.0,0.697855698356193
+[04Dec2024 04:10:09.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2848ms or 56 ticks behind
+[04Dec2024 04:11:06.820] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Dec2024 04:11:58.898] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[04Dec2024 04:12:14.333] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[04Dec2024 04:14:32.718] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Bandit'/22439, l='ServerLevel[world]', x=-8969.78, y=64.00, z=4479.81] died, message: 'Bandit was slain by Vindicator'
+[04Dec2024 04:14:32.722] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Bandit'/22439, l='ServerLevel[world]', x=-8969.78, y=64.00, z=4479.81] died: Bandit was slain by Vindicator
+[04Dec2024 04:15:26.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheRauli626 has made the advancement [Voluntary Exile]
+[04Dec2024 04:16:29.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Voluntary Exile]
+[04Dec2024 04:17:22.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheRauli626 has made the advancement [Ol' Betsy]
+[04Dec2024 04:18:00.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheRauli626 has made the advancement [Take Aim]
+[04Dec2024 04:18:31.715] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Juhana'/22454, l='ServerLevel[world]', x=-8993.44, y=64.27, z=4491.49] died, message: 'Juhana was slain by Ravager'
+[04Dec2024 04:18:31.717] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Juhana'/22454, l='ServerLevel[world]', x=-8993.44, y=64.27, z=4491.49] died: Juhana was slain by Ravager
+[04Dec2024 04:18:47.213] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Arja'/22446, l='ServerLevel[world]', x=-9028.03, y=63.00, z=4506.04] died, message: 'Arja was slain by Ravager'
+[04Dec2024 04:18:47.214] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Arja'/22446, l='ServerLevel[world]', x=-9028.03, y=63.00, z=4506.04] died: Arja was slain by Ravager
+[04Dec2024 04:19:20.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo has completed the challenge [Hero of the Village]
+[04Dec2024 04:19:20.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has completed the challenge [Hero of the Village]
+[04Dec2024 04:19:20.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheRauli626 has completed the challenge [Hero of the Village]
