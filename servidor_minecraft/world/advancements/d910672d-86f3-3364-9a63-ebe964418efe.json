@@ -4855,9 +4855,27 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-04 04:16:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-12-04 04:19:20 +0000"
+    },
+    "done": true
+  },
   "ancient_elements:fluffy": {
     "criteria": {
       "fluffy": "2024-12-04 03:52:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-04 04:21:52 +0000"
     },
     "done": true
   },

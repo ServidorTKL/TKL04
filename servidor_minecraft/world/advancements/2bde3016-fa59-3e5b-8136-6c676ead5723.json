@@ -1414,6 +1414,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-03 04:53:49 +0000",
       "minecraft:skeleton": "2024-12-01 03:05:33 +0000",
+      "minecraft:ravager": "2024-12-04 04:19:18 +0000",
       "minecraft:vindicator": "2024-12-04 04:14:52 +0000",
       "minecraft:magma_cube": "2024-12-01 22:59:57 +0000",
       "minecraft:spider": "2024-12-01 22:54:56 +0000",
@@ -3867,6 +3868,12 @@
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2024-12-04 03:40:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-12-04 04:19:20 +0000"
     },
     "done": true
   },
