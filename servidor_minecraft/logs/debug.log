@@ -3501,3 +3501,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [04Dec2024 19:11:36.923] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Dec2024 19:16:36.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Dec2024 19:16:36.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 19:21:36.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 19:21:36.832] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 19:26:36.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 19:26:36.957] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
