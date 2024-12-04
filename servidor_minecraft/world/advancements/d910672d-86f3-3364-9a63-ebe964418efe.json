@@ -4885,5 +4885,11 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-04 04:33:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
