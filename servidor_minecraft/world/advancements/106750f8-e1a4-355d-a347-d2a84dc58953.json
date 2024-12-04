@@ -395,13 +395,21 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:windswept_hills": "2024-12-04 03:33:44 +0000",
       "minecraft:bamboo_jungle": "2024-12-04 03:11:08 +0000",
       "minecraft:beach": "2024-12-04 03:00:29 +0000",
       "minecraft:sparse_jungle": "2024-12-04 03:03:42 +0000",
       "minecraft:river": "2024-12-04 03:10:31 +0000",
+      "minecraft:windswept_gravelly_hills": "2024-12-04 03:33:28 +0000",
       "minecraft:plains": "2024-12-04 03:05:01 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-12-04 03:34:51 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
@@ -481,9 +489,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-12-04 03:34:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-12-04 03:34:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2024-12-04 03:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-04 03:34:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-04 03:35:14 +0000"
     },
     "done": true
   },
@@ -502,6 +534,18 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-04 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-04 03:34:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-12-04 03:34:51 +0000"
     },
     "done": true
   },
@@ -571,6 +615,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-04 03:34:51 +0000"
+    },
+    "done": true
+  },
   "shieldexp:recipes/iron_shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-04 03:16:32 +0000"
@@ -604,6 +654,12 @@
   "smallships:recipes/transportation/oak_cog": {
     "criteria": {
       "in_water": "2024-12-04 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-04 03:34:51 +0000"
     },
     "done": true
   },
@@ -682,6 +738,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-04 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-04 03:34:53 +0000"
     },
     "done": true
   },
@@ -793,9 +855,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-04 03:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-04 03:34:51 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/misc/sail": {
     "criteria": {
       "in_water": "2024-12-04 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-04 03:29:30 +0000"
     },
     "done": true
   },
@@ -883,6 +963,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-12-04 03:34:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-12-04 03:06:49 +0000"
@@ -913,6 +999,18 @@
     },
     "done": true
   },
+  "mca:recipes/building_blocks/headstones": {
+    "criteria": {
+      "has_ingredients": "2024-12-04 03:34:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-04 03:35:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-12-04 03:15:19 +0000"
@@ -937,6 +1035,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-04 03:34:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-04 03:34:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "melon_slice": "2024-12-04 03:08:50 +0000"
@@ -946,6 +1056,12 @@
   "smallships:recipes/transportation/jungle_galley": {
     "criteria": {
       "in_water": "2024-12-04 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-12-04 03:34:51 +0000"
     },
     "done": true
   },
@@ -961,9 +1077,27 @@
     },
     "done": true
   },
+  "aquaculture:recipes/tools/stone_fillet_knife": {
+    "criteria": {
+      "has_items": "2024-12-04 03:34:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-04 03:34:51 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/spruce_drakkar": {
     "criteria": {
       "in_water": "2024-12-04 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-12-04 03:34:51 +0000"
     },
     "done": true
   },
