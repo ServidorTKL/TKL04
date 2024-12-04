@@ -694,6 +694,7 @@
       "pumpkin_pie": "2024-12-03 19:48:14 +0000",
       "bread": "2024-12-01 02:49:10 +0000",
       "rotten_flesh": "2024-12-01 02:42:43 +0000",
+      "suspicious_stew": "2024-12-04 04:43:56 +0000",
       "dried_kelp": "2024-12-04 03:46:06 +0000",
       "golden_carrot": "2024-12-04 03:59:06 +0000",
       "cooked_chicken": "2024-12-04 04:04:38 +0000"
@@ -4843,9 +4844,21 @@
     },
     "done": true
   },
+  "mca:baby": {
+    "criteria": {
+      "baby": "2024-12-04 04:53:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/whos_the_pillager_now": {
     "criteria": {
       "kill_pillager": "2024-12-04 03:54:09 +0000"
+    },
+    "done": true
+  },
+  "mca:marriage": {
+    "criteria": {
+      "iron": "2024-12-04 04:52:54 +0000"
     },
     "done": true
   },
@@ -4858,6 +4871,18 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2024-12-04 04:16:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-04 04:48:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-04 04:37:47 +0000"
     },
     "done": true
   },
@@ -4879,15 +4904,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-04 04:37:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2024-12-04 03:45:57 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-04 04:37:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-04 04:37:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-04 04:33:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-04 04:48:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2024-12-04 04:37:47 +0000"
     },
     "done": true
   },
