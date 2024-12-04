@@ -395,11 +395,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-04 03:48:53 +0000",
       "minecraft:windswept_hills": "2024-12-04 03:33:44 +0000",
       "minecraft:bamboo_jungle": "2024-12-04 03:11:08 +0000",
       "minecraft:beach": "2024-12-04 03:00:29 +0000",
       "minecraft:sparse_jungle": "2024-12-04 03:03:42 +0000",
       "minecraft:river": "2024-12-04 03:10:31 +0000",
+      "minecraft:swamp": "2024-12-04 03:42:55 +0000",
+      "minecraft:forest": "2024-12-04 03:37:49 +0000",
+      "minecraft:windswept_forest": "2024-12-04 03:49:16 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-04 03:33:28 +0000",
       "minecraft:plains": "2024-12-04 03:05:01 +0000"
     },
@@ -501,6 +505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-04 03:47:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2024-12-04 03:09:20 +0000"
@@ -525,6 +535,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-04 03:47:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-12-04 03:16:32 +0000"
@@ -534,6 +550,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-04 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-04 03:41:46 +0000"
     },
     "done": true
   },
@@ -573,6 +595,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-12-04 03:36:21 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/jungle_cog": {
     "criteria": {
       "in_water": "2024-12-04 03:06:49 +0000"
@@ -591,6 +619,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-04 03:41:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-04 03:16:39 +0000"
@@ -602,6 +636,18 @@
       "has_iron_ingot": "2024-12-04 03:16:32 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-12-04 03:36:21 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_ruined_building": "2024-12-04 03:42:39 +0000"
+    },
+    "done": false
   },
   "smallships:recipes/transportation/birch_galley": {
     "criteria": {
@@ -639,9 +685,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2024-12-04 03:41:45 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2024-12-04 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_ruined_building": "2024-12-04 03:42:39 +0000"
     },
     "done": true
   },
@@ -654,6 +712,18 @@
   "smallships:recipes/transportation/oak_cog": {
     "criteria": {
       "in_water": "2024-12-04 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-04 03:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-04 03:44:39 +0000"
     },
     "done": true
   },
@@ -705,6 +775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-04 03:41:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-04 03:06:49 +0000"
@@ -717,6 +793,12 @@
     },
     "done": true
   },
+  "ancient_elements:fluffy": {
+    "criteria": {
+      "fluffy": "2024-12-04 03:52:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-04 03:06:03 +0000"
@@ -726,6 +808,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-12-04 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-12-04 03:36:21 +0000"
     },
     "done": true
   },
@@ -744,6 +832,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-04 03:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-12-04 03:36:21 +0000"
     },
     "done": true
   },
@@ -801,6 +895,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-12-04 03:36:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-04 03:16:32 +0000"
@@ -849,9 +949,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-04 03:36:21 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/dark_oak_drakkar": {
     "criteria": {
       "in_water": "2024-12-04 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-04 03:46:24 +0000"
     },
     "done": true
   },
@@ -939,6 +1051,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-04 03:36:21 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2024-12-04 03:15:31 +0000"
@@ -948,6 +1066,18 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2024-12-04 03:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-12-04 03:36:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-04 03:36:21 +0000"
     },
     "done": true
   },
@@ -981,6 +1111,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-04 03:41:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-04 03:41:46 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/cherry_brigg": {
     "criteria": {
       "in_water": "2024-12-04 03:06:49 +0000"
@@ -996,6 +1138,12 @@
   "mca:root": {
     "criteria": {
       "village_plains": "2024-12-04 03:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-04 03:47:28 +0000"
     },
     "done": true
   },
@@ -1035,6 +1183,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2024-12-04 03:41:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-12-04 03:36:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-04 03:34:51 +0000"
@@ -1056,6 +1216,12 @@
   "smallships:recipes/transportation/jungle_galley": {
     "criteria": {
       "in_water": "2024-12-04 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-04 03:47:28 +0000"
     },
     "done": true
   },
@@ -1089,6 +1255,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-04 03:36:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-04 03:41:46 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/spruce_drakkar": {
     "criteria": {
       "in_water": "2024-12-04 03:06:49 +0000"
@@ -1104,6 +1282,12 @@
   "smallships:recipes/transportation/mangrove_cog": {
     "criteria": {
       "in_water": "2024-12-04 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-04 03:36:46 +0000"
     },
     "done": true
   },
@@ -1140,6 +1324,12 @@
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2024-12-04 03:15:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-04 03:47:20 +0000"
     },
     "done": true
   },
