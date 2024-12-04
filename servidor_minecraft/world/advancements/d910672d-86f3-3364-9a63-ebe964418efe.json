@@ -4314,6 +4314,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_tower_of_the_undead": "2024-12-04 18:14:12 +0000",
       "entered_stables": "2024-12-03 04:24:23 +0000",
       "entered_deep_crypt": "2024-12-03 03:15:55 +0000",
       "entered_ruined_building": "2024-12-03 04:12:44 +0000"
@@ -4957,6 +4958,30 @@
       "baby_drop_attempts": "2024-12-04 05:04:50 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-04 18:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-04 18:12:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-04 18:12:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-04 18:15:48 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
