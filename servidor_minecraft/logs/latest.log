@@ -445,3 +445,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [04Dec2024 19:08:29.341] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [04Dec2024 19:08:49.290] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [04Dec2024 19:08:49.292] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[04Dec2024 19:35:17.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Mr. Bubbles]
