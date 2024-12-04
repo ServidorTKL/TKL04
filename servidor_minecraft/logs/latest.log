@@ -439,3 +439,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [04Dec2024 18:41:46.491] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
 [04Dec2024 18:44:59.212] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Be'/7229, l='ServerLevel[world]', x=-160.11, y=66.00, z=-906.41] died, message: 'Be suffocated in a wall'
 [04Dec2024 18:44:59.219] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Be'/7229, l='ServerLevel[world]', x=-160.11, y=66.00, z=-906.41] died: Be suffocated in a wall
+[04Dec2024 19:01:43.240] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[04Dec2024 19:01:58.790] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
