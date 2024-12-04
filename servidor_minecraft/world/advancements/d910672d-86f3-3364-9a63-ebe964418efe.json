@@ -4977,6 +4977,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_deposit_upgrade": {
+    "criteria": {
+      "has_deposit_upgrade": "2024-12-04 18:36:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2024-12-04 18:12:50 +0000"
