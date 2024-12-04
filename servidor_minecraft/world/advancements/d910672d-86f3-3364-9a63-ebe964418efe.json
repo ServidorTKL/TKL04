@@ -4928,6 +4928,12 @@
     },
     "done": true
   },
+  "mca:monster": {
+    "criteria": {
+      "baby_drop_attempts": "2024-12-04 05:04:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-04 04:33:17 +0000"
@@ -4939,6 +4945,12 @@
       "has_clay_ball": "2024-12-04 04:48:41 +0000"
     },
     "done": true
+  },
+  "mca:baby_dropped": {
+    "criteria": {
+      "baby_drop_attempts": "2024-12-04 05:04:50 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/transportation/rail": {
     "criteria": {
