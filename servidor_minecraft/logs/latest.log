@@ -470,3 +470,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [05Dec2024 03:24:34.386] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-9018, y=64, z=4506} BlockPos{x=-9018, y=62, z=4504}
 [05Dec2024 03:24:45.651] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [05Dec2024 03:37:22.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [The Parrots and the Bats]
+[05Dec2024 04:04:37.999] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Dec2024 04:06:51.499] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
