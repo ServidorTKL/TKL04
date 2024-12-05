@@ -3701,3 +3701,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [05Dec2024 02:16:48.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rockmero: Set own game mode to Spectator Mode]
 [05Dec2024 02:16:57.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rockmero: Set own game mode to Creative Mode]
 [05Dec2024 02:17:16.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rockmero: Set own game mode to Survival Mode]
+[05Dec2024 02:20:45.299] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[05Dec2024 02:20:48.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 02:20:48.206] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 02:21:21.499] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[05Dec2024 02:24:33.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rockmero: Set own game mode to Creative Mode]
+[05Dec2024 02:25:06.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rockmero: Set own game mode to Survival Mode]
+[05Dec2024 02:25:28.308] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2510ms or 50 ticks behind
+[05Dec2024 02:25:50.686] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 02:25:50.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
