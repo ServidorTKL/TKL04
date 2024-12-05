@@ -469,3 +469,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [05Dec2024 03:23:51.713] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['hector el father'/23999, l='ServerLevel[world]', x=-169.36, y=63.00, z=-926.85] died: hector el father went up in flames
 [05Dec2024 03:24:34.386] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-9018, y=64, z=4506} BlockPos{x=-9018, y=62, z=4504}
 [05Dec2024 03:24:45.651] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Dec2024 03:37:22.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [The Parrots and the Bats]

@@ -5170,5 +5170,17 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-05 03:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2024-12-05 03:37:22 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
