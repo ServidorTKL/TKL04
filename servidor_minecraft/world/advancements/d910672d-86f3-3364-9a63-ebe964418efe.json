@@ -4959,27 +4959,27 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/brick_wall": {
+  "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
-      "has_bricks": "2024-12-04 18:56:31 +0000"
+      "has_log": "2024-12-04 18:12:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brick_stairs": {
+  "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
-      "has_bricks": "2024-12-04 18:56:31 +0000"
+      "has_logs": "2024-12-04 18:12:50 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
+  "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
-      "has_feeding_upgrade": "2024-12-04 19:18:31 +0000"
+      "has_beetroot": "2024-12-04 18:15:48 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
-      "has_smelting_upgrade": "2024-12-04 19:19:51 +0000"
+      "has_beetroot": "2024-12-04 18:15:48 +0000"
     },
     "done": true
   },
@@ -4989,15 +4989,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_honeycomb": {
+  "sophisticatedbackpacks:recipes/misc/advanced_deposit_upgrade": {
     "criteria": {
-      "has_cut_copper_slab": "2024-12-04 19:34:27 +0000"
+      "has_deposit_upgrade": "2024-12-04 18:36:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/beetroot_soup": {
+  "minecraft:recipes/decorations/jungle_hanging_sign": {
     "criteria": {
-      "has_beetroot": "2024-12-04 18:15:48 +0000"
+      "has_stripped_logs": "2024-12-04 18:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2024-12-04 18:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2024-12-04 18:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2024-12-04 18:56:31 +0000"
     },
     "done": true
   },
@@ -5013,105 +5031,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2024-12-04 19:32:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2024-12-04 18:12:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper": {
-    "criteria": {
-      "has_copper_block": "2024-12-04 19:32:44 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_deposit_upgrade": {
-    "criteria": {
-      "has_deposit_upgrade": "2024-12-04 18:36:51 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade": {
-    "criteria": {
-      "has_advanced_pickup_upgrade": "2024-12-04 19:16:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2024-12-04 19:32:44 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2024-12-04 19:16:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_black_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-12-04 19:25:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
-    "criteria": {
-      "has_copper_block": "2024-12-04 19:32:44 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2024-12-04 19:19:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot": {
-    "criteria": {
-      "has_copper_block": "2024-12-04 19:32:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_black_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-12-04 19:25:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2024-12-04 18:12:50 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2024-12-04 19:19:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_bricks": "2024-12-04 18:56:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2024-12-04 18:15:48 +0000"
-    },
-    "done": true
-  },
-  "laendli_transport:advancement_divingsuit": {
-    "criteria": {
-      "advancement_divingsuit": "2024-12-04 19:35:17 +0000"
     },
     "done": true
   },
@@ -5121,15 +5043,45 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
-      "has_auto_smelting_upgrade": "2024-12-04 19:21:50 +0000"
+      "has_diamond_backpack": "2024-12-04 19:16:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade": {
     "criteria": {
-      "has_copper_block": "2024-12-04 19:32:44 +0000"
+      "has_advanced_pickup_upgrade": "2024-12-04 19:16:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2024-12-04 19:18:31 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-12-04 19:19:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-12-04 19:19:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-12-04 19:19:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2024-12-04 19:21:50 +0000"
     },
     "done": true
   },
@@ -5139,15 +5091,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_stained_glass_pane": {
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
     "criteria": {
-      "has_glass": "2024-12-04 19:31:06 +0000"
+      "has_needed_dye": "2024-12-04 19:25:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/jungle_hanging_sign": {
+  "minecraft:recipes/building_blocks/dye_black_bed": {
     "criteria": {
-      "has_stripped_logs": "2024-12-04 18:50:43 +0000"
+      "has_needed_dye": "2024-12-04 19:25:25 +0000"
     },
     "done": true
   },
@@ -5163,9 +5115,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
-      "has_log": "2024-12-04 18:50:43 +0000"
+      "has_glass": "2024-12-04 19:31:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-12-04 19:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2024-12-04 19:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-12-04 19:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2024-12-04 19:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2024-12-04 19:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-12-04 19:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_honeycomb": {
+    "criteria": {
+      "has_cut_copper_slab": "2024-12-04 19:34:27 +0000"
+    },
+    "done": true
+  },
+  "laendli_transport:advancement_divingsuit": {
+    "criteria": {
+      "advancement_divingsuit": "2024-12-04 19:35:17 +0000"
     },
     "done": true
   },
