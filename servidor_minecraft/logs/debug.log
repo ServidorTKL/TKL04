@@ -3707,3 +3707,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [06Dec2024 03:40:19.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Dec2024 03:40:19.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Dec2024 03:41:29.577] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-94, y=73, z=-869}) doesn't have enough leaves around top most log
+[06Dec2024 03:45:19.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 03:45:19.934] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 03:45:29.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2755ms or 55 ticks behind
+[06Dec2024 03:48:36.478] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-87, y=68, z=-871}) doesn't have enough leaves around top most log
+[06Dec2024 03:48:37.279] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-86, y=68, z=-871}) doesn't have enough leaves around top most log
+[06Dec2024 03:48:52.330] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-87, y=68, z=-869}) doesn't have enough leaves around top most log
+[06Dec2024 03:48:53.117] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-86, y=68, z=-869}) doesn't have enough leaves around top most log
+[06Dec2024 03:49:25.535] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[06Dec2024 03:49:40.602] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo lost connection: Disconnected
+[06Dec2024 03:49:40.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo left the game
+[06Dec2024 03:50:18.936] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[06Dec2024 03:50:22.525] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 03:50:22.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
