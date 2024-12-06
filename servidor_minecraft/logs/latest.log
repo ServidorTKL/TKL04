@@ -461,3 +461,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [06Dec2024 03:49:40.602] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo lost connection: Disconnected
 [06Dec2024 03:49:40.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo left the game
 [06Dec2024 03:50:18.936] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[06Dec2024 03:54:37.135] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[06Dec2024 03:54:40.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[06Dec2024 03:54:47.066] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@63c52a94[id=<null>,name=jonimelalabo,properties={},legacy=false] (/127.208.7.215:43287) lost connection: Disconnected
+[06Dec2024 03:54:56.101] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonimelalabo[/127.208.7.215:47087] logged in with entity id 25069 at (-8997.379581407968, 81.0, 4511.367422248929)
+[06Dec2024 03:54:56.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo joined the game
+[06Dec2024 03:56:15.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2180ms or 43 ticks behind
