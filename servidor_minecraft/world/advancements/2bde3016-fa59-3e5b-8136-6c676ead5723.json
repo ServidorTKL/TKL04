@@ -4203,6 +4203,12 @@
     },
     "done": true
   },
+  "ancient_elements:drillmaster_extraordinaire": {
+    "criteria": {
+      "drillmaster_extraordinaire": "2024-12-07 02:59:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2024-12-07 02:29:51 +0000"
