@@ -5218,6 +5218,12 @@
     },
     "done": true
   },
+  "mca:merchant": {
+    "criteria": {
+      "baby": "2024-12-07 04:42:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_light_blue_wool": {
     "criteria": {
       "has_needed_dye": "2024-12-07 04:06:08 +0000"

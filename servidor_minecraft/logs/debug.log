@@ -4353,3 +4353,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [07Dec2024 04:41:20.641] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
 [07Dec2024 04:41:20.642] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
 [07Dec2024 04:42:21.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Merchant]
+[07Dec2024 04:45:16.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 04:45:16.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 04:50:15.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 04:50:16.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
