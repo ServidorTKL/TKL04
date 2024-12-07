@@ -5218,6 +5218,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2024-12-07 03:45:37 +0000"
+    },
+    "done": true
+  },
   "ancient_elements:drillmaster_extraordinaire": {
     "criteria": {
       "drillmaster_extraordinaire": "2024-12-07 02:19:13 +0000"
