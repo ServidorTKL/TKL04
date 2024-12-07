@@ -611,3 +611,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [07Dec2024 04:10:57.875] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo lost connection: Disconnected
 [07Dec2024 04:10:57.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo left the game
 [07Dec2024 04:11:09.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2335ms or 46 ticks behind
+[07Dec2024 04:33:49.404] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
