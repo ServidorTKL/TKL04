@@ -623,3 +623,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [07Dec2024 05:32:28.461] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tan'/76649, l='ServerLevel[world]', x=-9042.28, y=73.00, z=3927.72] died, message: 'Tan was slain by Alligator Snapping Turtle'
 [07Dec2024 05:32:28.463] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Tan'/76649, l='ServerLevel[world]', x=-9042.28, y=73.00, z=3927.72] died: Tan was slain by Alligator Snapping Turtle
 [07Dec2024 05:34:39.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[07Dec2024 05:38:47.854] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07Dec2024 05:44:01.954] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07Dec2024 05:55:39.116] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rockmero lost connection: Disconnected
+[07Dec2024 05:55:39.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero left the game
