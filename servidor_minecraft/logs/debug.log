@@ -4224,3 +4224,44 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [07Dec2024 03:04:05.951] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07Dec2024 03:09:05.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Dec2024 03:09:05.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 03:14:05.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 03:14:05.984] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 03:16:01.840] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5767, y=66, z=5417} BlockPos{x=-5766, y=66, z=5417}
+[07Dec2024 03:16:28.107] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07Dec2024 03:16:29.954] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07Dec2024 03:17:23.453] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation NONE at (-6027 | 35 | 5356)
+[07Dec2024 03:17:23.470] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation NONE at (-6027 | 35 | 5356)
+[07Dec2024 03:17:23.475] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (-6022 | 26 | 5355)
+[07Dec2024 03:17:23.475] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (-6022 | 26 | 5355)
+[07Dec2024 03:17:23.475] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation NONE at (-6027 | 26 | 5338)
+[07Dec2024 03:17:23.479] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation NONE at (-6027 | 26 | 5338)
+[07Dec2024 03:17:23.480] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (-6013 | 17 | 5357)
+[07Dec2024 03:17:23.480] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (-6013 | 17 | 5357)
+[07Dec2024 03:17:23.495] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation COUNTERCLOCKWISE_90 at (-6018 | 17 | 5356)
+[07Dec2024 03:17:23.496] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation COUNTERCLOCKWISE_90 at (-6018 | 17 | 5356)
+[07Dec2024 03:17:23.496] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (-6026 | 8 | 5330)
+[07Dec2024 03:17:23.496] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (-6026 | 8 | 5330)
+[07Dec2024 03:17:23.496] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (-6026 | 8 | 5330)
+[07Dec2024 03:17:23.497] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (-6026 | 8 | 5330)
+[07Dec2024 03:17:23.497] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-6022 | -1 | 5346)
+[07Dec2024 03:17:23.497] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-6022 | -1 | 5346)
+[07Dec2024 03:17:23.497] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (-6027 | -2 | 5329)
+[07Dec2024 03:17:23.498] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (-6027 | -2 | 5329)
+[07Dec2024 03:17:23.498] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (-6017 | -1 | 5354)
+[07Dec2024 03:17:23.498] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (-6017 | -1 | 5354)
+[07Dec2024 03:17:23.498] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (-6022 | -1 | 5351)
+[07Dec2024 03:17:23.499] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (-6022 | -1 | 5351)
+[07Dec2024 03:17:24.312] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (-6023 | 26 | 5397)
+[07Dec2024 03:17:24.313] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (-6023 | 26 | 5397)
+[07Dec2024 03:17:24.313] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-6014 | 26 | 5396)
+[07Dec2024 03:17:24.318] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-6014 | 26 | 5396)
+[07Dec2024 03:17:24.318] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation NONE at (-6005 | 26 | 5398)
+[07Dec2024 03:17:24.319] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation NONE at (-6005 | 26 | 5398)
+[07Dec2024 03:17:24.319] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation NONE at (-6023 | 17 | 5388)
+[07Dec2024 03:17:24.319] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation NONE at (-6023 | 17 | 5388)
+[07Dec2024 03:17:24.319] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-6014 | 17 | 5387)
+[07Dec2024 03:17:24.319] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-6014 | 17 | 5387)
+[07Dec2024 03:17:24.319] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (-6005 | 17 | 5388)
+[07Dec2024 03:17:24.320] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (-6005 | 17 | 5388)
+[07Dec2024 03:19:05.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 03:19:05.769] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
