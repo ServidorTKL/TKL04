@@ -690,6 +690,7 @@
       "cooked_beef": "2024-12-02 02:24:20 +0000",
       "baked_potato": "2024-12-03 04:29:39 +0000",
       "apple": "2024-12-04 03:55:31 +0000",
+      "spider_eye": "2024-12-08 04:27:58 +0000",
       "potato": "2024-12-02 02:19:10 +0000",
       "pumpkin_pie": "2024-12-03 19:48:14 +0000",
       "bread": "2024-12-01 02:49:10 +0000",
@@ -5178,7 +5179,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:sheep": "2024-12-05 03:37:22 +0000"
+      "minecraft:sheep": "2024-12-05 03:37:22 +0000",
+      "minecraft:chicken": "2024-12-08 04:14:55 +0000"
     },
     "done": false
   },
@@ -5218,15 +5220,15 @@
     },
     "done": true
   },
-  "mca:family": {
+  "ancient_elements:drillmaster_extraordinaire": {
     "criteria": {
-      "iron": "2024-12-07 05:20:36 +0000"
+      "drillmaster_extraordinaire": "2024-12-07 02:19:13 +0000"
     },
     "done": true
   },
-  "mca:merchant": {
+  "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
-      "baby": "2024-12-07 04:42:21 +0000"
+      "has_lapis_block": "2024-12-07 03:45:37 +0000"
     },
     "done": true
   },
@@ -5242,27 +5244,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lapis_lazuli": {
-    "criteria": {
-      "has_lapis_block": "2024-12-07 03:45:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_light_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2024-12-07 04:06:08 +0000"
     },
     "done": true
   },
-  "ancient_elements:drillmaster_extraordinaire": {
-    "criteria": {
-      "drillmaster_extraordinaire": "2024-12-07 02:19:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_blue_candle": {
     "criteria": {
       "has_light_blue_dye": "2024-12-07 04:06:08 +0000"
+    },
+    "done": true
+  },
+  "mca:merchant": {
+    "criteria": {
+      "baby": "2024-12-07 04:42:21 +0000"
+    },
+    "done": true
+  },
+  "mca:family": {
+    "criteria": {
+      "iron": "2024-12-07 05:20:36 +0000"
     },
     "done": true
   },

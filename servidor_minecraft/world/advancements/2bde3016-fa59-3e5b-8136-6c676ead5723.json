@@ -4179,12 +4179,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/packed_mud": {
-    "criteria": {
-      "has_mud": "2024-12-07 03:28:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-07 02:29:51 +0000"
@@ -4209,18 +4203,6 @@
     },
     "done": true
   },
-  "ancient_elements:drillmaster_extraordinaire": {
-    "criteria": {
-      "drillmaster_extraordinaire": "2024-12-07 02:59:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
-    "criteria": {
-      "has_mangrove_roots": "2024-12-07 03:37:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2024-12-07 02:29:51 +0000"
@@ -4236,6 +4218,48 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-07 02:29:51 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:drillmaster_extraordinaire": {
+    "criteria": {
+      "drillmaster_extraordinaire": "2024-12-07 02:59:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2024-12-07 03:28:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2024-12-07 03:37:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-08 04:10:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-08 04:10:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-08 04:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-08 04:26:33 +0000"
     },
     "done": true
   },
