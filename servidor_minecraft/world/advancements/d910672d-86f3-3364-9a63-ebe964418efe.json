@@ -968,7 +968,8 @@
       "minecraft:cave_spider": "2024-12-02 02:21:47 +0000",
       "minecraft:enderman": "2024-12-02 02:51:02 +0000",
       "minecraft:stray": "2024-12-02 02:45:40 +0000",
-      "minecraft:zombie": "2024-12-01 03:15:20 +0000"
+      "minecraft:zombie": "2024-12-01 03:15:20 +0000",
+      "minecraft:drowned": "2024-12-08 04:41:08 +0000"
     },
     "done": false
   },
@@ -5265,6 +5266,12 @@
   "mca:family": {
     "criteria": {
       "iron": "2024-12-07 05:20:36 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-12-08 04:43:55 +0000"
     },
     "done": true
   },
