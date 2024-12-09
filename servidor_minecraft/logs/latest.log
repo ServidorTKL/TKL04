@@ -438,3 +438,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [09Dec2024 17:52:59.797] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tung'/1013, l='ServerLevel[world]', x=-128.28, y=63.56, z=-840.86] died, message: 'Tung suffocated in a wall'
 [09Dec2024 17:52:59.799] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Tung'/1013, l='ServerLevel[world]', x=-128.28, y=63.56, z=-840.86] died: Tung suffocated in a wall
 [09Dec2024 17:59:22.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Fishy Business]
+[09Dec2024 18:22:52.568] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[09Dec2024 18:23:50.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7500ms or 150 ticks behind
