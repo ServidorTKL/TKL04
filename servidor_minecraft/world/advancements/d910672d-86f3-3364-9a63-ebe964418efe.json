@@ -390,6 +390,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-12-01 02:34:13 +0000",
+      "minecraft:deep_ocean": "2024-12-09 18:46:18 +0000",
       "minecraft:windswept_hills": "2024-12-03 04:01:06 +0000",
       "minecraft:bamboo_jungle": "2024-12-03 02:31:59 +0000",
       "minecraft:beach": "2024-12-01 02:32:22 +0000",
@@ -402,6 +403,7 @@
       "minecraft:forest": "2024-12-01 03:02:01 +0000",
       "minecraft:windswept_forest": "2024-12-04 03:51:59 +0000",
       "minecraft:ocean": "2024-12-09 18:41:04 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-12-09 18:52:22 +0000",
       "minecraft:meadow": "2024-12-03 04:29:51 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-04 03:32:59 +0000",
       "minecraft:savanna": "2024-12-09 18:33:13 +0000",
@@ -696,6 +698,7 @@
       "spider_eye": "2024-12-08 04:27:58 +0000",
       "potato": "2024-12-02 02:19:10 +0000",
       "pumpkin_pie": "2024-12-03 19:48:14 +0000",
+      "pufferfish": "2024-12-09 18:43:34 +0000",
       "bread": "2024-12-01 02:49:10 +0000",
       "rotten_flesh": "2024-12-01 02:42:43 +0000",
       "suspicious_stew": "2024-12-04 04:43:56 +0000",
@@ -5304,9 +5307,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2024-12-09 18:50:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-09 18:50:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "salmon": "2024-12-09 17:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2024-12-09 18:50:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-09 18:50:41 +0000"
     },
     "done": true
   },
@@ -5331,6 +5358,30 @@
   "minecraft:recipes/building_blocks/dye_red_carpet": {
     "criteria": {
       "has_needed_dye": "2024-12-09 18:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-09 18:50:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2024-12-09 18:50:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-09 18:50:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-12-09 18:47:59 +0000"
     },
     "done": true
   },
@@ -5364,6 +5415,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2024-12-09 18:50:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_red_dye": "2024-12-09 18:19:08 +0000"
@@ -5391,6 +5448,18 @@
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2024-12-09 18:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-12-09 18:47:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-12-09 18:50:41 +0000"
     },
     "done": true
   },
