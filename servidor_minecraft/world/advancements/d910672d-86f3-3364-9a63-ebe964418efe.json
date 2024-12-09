@@ -698,8 +698,10 @@
       "rotten_flesh": "2024-12-01 02:42:43 +0000",
       "suspicious_stew": "2024-12-04 04:43:56 +0000",
       "dried_kelp": "2024-12-04 03:46:06 +0000",
+      "salmon": "2024-12-09 18:03:30 +0000",
       "golden_carrot": "2024-12-04 03:59:06 +0000",
       "cooked_chicken": "2024-12-04 04:04:38 +0000",
+      "cod": "2024-12-09 18:05:15 +0000",
       "carrot": "2024-12-05 02:28:20 +0000"
     },
     "done": false
@@ -5303,6 +5305,24 @@
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "salmon": "2024-12-09 17:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-09 18:08:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-09 18:08:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-09 18:08:44 +0000"
     },
     "done": true
   },
