@@ -437,3 +437,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [09Dec2024 17:52:06.725] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [09Dec2024 17:52:59.797] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tung'/1013, l='ServerLevel[world]', x=-128.28, y=63.56, z=-840.86] died, message: 'Tung suffocated in a wall'
 [09Dec2024 17:52:59.799] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Tung'/1013, l='ServerLevel[world]', x=-128.28, y=63.56, z=-840.86] died: Tung suffocated in a wall
+[09Dec2024 17:59:22.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Fishy Business]

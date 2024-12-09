@@ -3515,3 +3515,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [09Dec2024 17:52:06.725] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [09Dec2024 17:52:59.797] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tung'/1013, l='ServerLevel[world]', x=-128.28, y=63.56, z=-840.86] died, message: 'Tung suffocated in a wall'
 [09Dec2024 17:52:59.799] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Tung'/1013, l='ServerLevel[world]', x=-128.28, y=63.56, z=-840.86] died: Tung suffocated in a wall
+[09Dec2024 17:56:12.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 17:56:12.367] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 17:59:22.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Fishy Business]
+[09Dec2024 18:01:12.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 18:01:12.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
