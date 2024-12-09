@@ -5282,6 +5282,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2024-12-09 04:16:40 +0000"
+    },
+    "done": true
+  },
   "mca:grow_adult": {
     "criteria": {
       "baby": "2024-12-09 03:44:57 +0000"
