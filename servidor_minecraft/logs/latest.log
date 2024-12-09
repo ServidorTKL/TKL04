@@ -471,3 +471,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [09Dec2024 04:28:02.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo moved too quickly! 9.689124716833248,-1.1934064997145342,2.439970232595442
 [09Dec2024 04:28:38.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo moved too quickly! 2.680477639189121,1.1661092609382138,-9.77650757120773
 [09Dec2024 04:31:29.033] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2551ms or 51 ticks behind
+[09Dec2024 04:38:49.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has reached the goal [Rock 'n' Roll]
+[09Dec2024 04:42:52.243] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo lost connection: Disconnected
+[09Dec2024 04:42:52.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo left the game
+[09Dec2024 04:42:52.582] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
