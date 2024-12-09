@@ -4252,12 +4252,6 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/root": {
-    "criteria": {
-      "underground_cabin": "2024-12-08 04:43:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2024-12-08 04:26:33 +0000"
@@ -4267,6 +4261,12 @@
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2024-12-08 04:26:33 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-12-08 04:43:59 +0000"
     },
     "done": true
   },
