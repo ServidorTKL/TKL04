@@ -404,6 +404,7 @@
       "minecraft:forest": "2024-12-01 03:02:01 +0000",
       "minecraft:windswept_forest": "2024-12-04 03:51:59 +0000",
       "minecraft:ocean": "2024-12-09 18:41:04 +0000",
+      "minecraft:jungle": "2024-12-10 20:20:22 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-09 18:52:22 +0000",
       "minecraft:meadow": "2024-12-03 04:29:51 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-04 03:32:59 +0000",
@@ -4332,6 +4333,7 @@
       "entered_tower_of_the_undead": "2024-12-04 18:14:12 +0000",
       "entered_stables": "2024-12-03 04:24:23 +0000",
       "entered_deep_crypt": "2024-12-03 03:15:55 +0000",
+      "entered_tree_house": "2024-12-10 20:18:38 +0000",
       "entered_ruined_building": "2024-12-03 04:12:44 +0000"
     },
     "done": false
@@ -5617,15 +5619,51 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_underzealot": {
+    "criteria": {
+      "killed_by_underzealot": "2024-12-10 20:20:07 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_corrodent": {
+    "criteria": {
+      "killed": "2024-12-10 20:35:31 +0000"
+    },
+    "done": true
+  },
   "mca:best_friend": {
     "criteria": {
       "baby": "2024-12-10 19:58:07 +0000"
     },
     "done": true
   },
+  "alexscaves:alexscaves/underzealot_sacrifice": {
+    "criteria": {
+      "underzealot_sacrifice": "2024-12-10 20:28:59 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/guano": {
+    "criteria": {
+      "guano": "2024-12-10 20:28:15 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_forlorn_hollows": {
+    "criteria": {
+      "discover": "2024-12-10 20:22:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2024-12-10 20:05:34 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/moth_ball": {
+    "criteria": {
+      "moth_ball": "2024-12-10 20:28:14 +0000"
     },
     "done": true
   },

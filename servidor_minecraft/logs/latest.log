@@ -462,3 +462,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [10Dec2024 20:17:10.762] [Worker-Main-13/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (-848, 38, -2336)
 [10Dec2024 20:17:11.251] [Worker-Main-13/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (-848, 36, -2326)
 [10Dec2024 20:17:11.355] [Worker-Main-13/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (-848, 38, -2336)
+[10Dec2024 20:19:59.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo has made the advancement [Hans Moleman]
+[10Dec2024 20:20:07.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Hans Moleman]
+[10Dec2024 20:20:49.153] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[10Dec2024 20:22:28.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo has reached the goal [Forlornliest Day of My Life]
+[10Dec2024 20:22:28.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has reached the goal [Forlornliest Day of My Life]
+[10Dec2024 20:26:40.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo has made the advancement [This is my Boomstick]
+[10Dec2024 20:28:14.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Bug Repellent]
+[10Dec2024 20:28:15.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [That is One Big Pile of...]
+[10Dec2024 20:28:59.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has reached the goal [The Black Parade]
+[10Dec2024 20:28:59.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo has reached the goal [The Black Parade]
+[10Dec2024 20:30:38.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo has made the advancement [Got Lamps?]
+[10Dec2024 20:35:31.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Corrodon't]
+[10Dec2024 20:37:35.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Chattering Teeth]
+[10Dec2024 20:37:39.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo has made the advancement [Chattering Teeth]

@@ -402,6 +402,7 @@
       "minecraft:cold_ocean": "2024-12-04 04:05:17 +0000",
       "minecraft:forest": "2024-12-01 02:36:59 +0000",
       "minecraft:windswept_forest": "2024-12-04 03:39:37 +0000",
+      "minecraft:jungle": "2024-12-10 20:17:23 +0000",
       "minecraft:meadow": "2024-12-03 04:29:49 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-04 03:32:10 +0000",
       "minecraft:plains": "2024-12-01 02:42:10 +0000"
@@ -4417,6 +4418,42 @@
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2024-12-10 04:19:51 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_underzealot": {
+    "criteria": {
+      "killed_by_underzealot": "2024-12-10 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_watcher": {
+    "criteria": {
+      "killed": "2024-12-10 20:26:40 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gloomoth": {
+    "criteria": {
+      "killed": "2024-12-10 20:30:38 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/underzealot_sacrifice": {
+    "criteria": {
+      "underzealot_sacrifice": "2024-12-10 20:28:59 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_forlorn_hollows": {
+    "criteria": {
+      "discover": "2024-12-10 20:22:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2024-12-10 20:28:43 +0000"
     },
     "done": true
   },
