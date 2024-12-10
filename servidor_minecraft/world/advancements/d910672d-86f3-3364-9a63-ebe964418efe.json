@@ -965,7 +965,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-03 04:21:12 +0000",
+      "minecraft:blaze": "2024-12-10 03:56:01 +0000",
       "minecraft:skeleton": "2024-12-01 03:44:25 +0000",
+      "minecraft:hoglin": "2024-12-10 03:59:54 +0000",
       "minecraft:vindicator": "2024-12-03 04:21:10 +0000",
       "minecraft:magma_cube": "2024-12-01 02:49:47 +0000",
       "minecraft:spider": "2024-12-02 00:23:58 +0000",
@@ -5530,15 +5532,33 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-10 03:58:21 +0000"
+    },
+    "done": true
+  },
   "nova_structures:nether/find_nether_skeleton": {
     "criteria": {
       "minecraft:fortress": "2024-12-10 03:50:29 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-10 03:58:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2024-12-10 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-10 03:58:21 +0000"
     },
     "done": true
   },

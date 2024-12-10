@@ -470,3 +470,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [10Dec2024 03:49:39.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo moved too quickly! -10.575862329881602,0.20000004768371582,-0.0011523954838423833
 [10Dec2024 03:50:29.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [A Terrible Fortress]
 [10Dec2024 03:50:48.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo has made the advancement [A Terrible Fortress]
+[10Dec2024 03:56:09.128] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[10Dec2024 03:56:30.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo has made the advancement [Into Fire]
+[10Dec2024 03:56:32.079] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[10Dec2024 03:58:21.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Into Fire]
+[10Dec2024 03:59:34.378] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[10Dec2024 04:02:50.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Nightmare Fuel]
