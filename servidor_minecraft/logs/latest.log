@@ -485,3 +485,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [10Dec2024 04:10:10.994] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonimelalabo[/127.219.119.160:37185] logged in with entity id 13328 at (-153.540013105559, 72.0, -917.7830853499431)
 [10Dec2024 04:10:11.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo joined the game
 [10Dec2024 04:11:47.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Local Brewery]
+[10Dec2024 04:14:40.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo has made the advancement [The Journey Begins]
+[10Dec2024 04:22:45.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rockmero was kicked for floating too long!
+[10Dec2024 04:22:45.787] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rockmero lost connection: Flying is not enabled on this server
+[10Dec2024 04:22:45.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero left the game
+[10Dec2024 04:22:59.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10Dec2024 04:22:59.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Dec2024 04:22:59.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Dec2024 04:22:59.198] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo lost connection: Server closed
+[10Dec2024 04:22:59.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo left the game
+[10Dec2024 04:22:59.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Dec2024 04:23:00.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Dec2024 04:23:01.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10Dec2024 04:23:01.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10Dec2024 04:23:01.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Dec2024 04:23:01.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Dec2024 04:23:01.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Dec2024 04:23:01.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
