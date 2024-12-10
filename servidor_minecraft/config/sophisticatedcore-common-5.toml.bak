@@ -1,0 +1,6 @@
+
+#Common Settings
+[common]
+	#Disable / enable any items here (disables their recipes)
+	enabledItems = ["sophisticatedbackpacks:pickup_upgrade|true", "sophisticatedbackpacks:auto_smoking_upgrade|true", "sophisticatedbackpacks:stack_upgrade_tier_4|true", "sophisticatedbackpacks:stack_upgrade_tier_2|true", "sophisticatedbackpacks:stack_upgrade_tier_3|true", "sophisticatedbackpacks:stack_upgrade_tier_1|true", "sophisticatedbackpacks:restock_upgrade|true", "sophisticatedbackpacks:stonecutter_upgrade|true", "sophisticatedbackpacks:advanced_compacting_upgrade|true", "sophisticatedbackpacks:stack_upgrade_starter_tier|true", "sophisticatedbackpacks:backpack|true", "sophisticatedbackpacks:pump_upgrade|true", "sophisticatedbackpacks:auto_blasting_upgrade|true", "sophisticatedbackpacks:tool_swapper_upgrade|true"]
+

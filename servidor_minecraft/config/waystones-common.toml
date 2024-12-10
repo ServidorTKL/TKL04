@@ -1,4 +1,24 @@
 
+[cooldowns]
+	#The multiplier applied to the cooldown when teleporting to a global waystone via inventory button or warp stone.
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	globalWaystoneCooldownMultiplier = 1.0
+	#The cooldown between usages of the warp stone in seconds. This is bound to the player, not the item, so multiple warp stones share the same cooldown.
+	#Range: > -2147483648
+	warpStoneCooldown = 30
+	#The time in ticks that it takes to use a warp stone. This is the charge-up time when holding right-click.
+	#Range: > -2147483648
+	warpStoneUseTime = 32
+	#The time in ticks that it takes to use a warp plate. This is the time the player has to stand on top for.
+	#Range: > -2147483648
+	warpPlateUseTime = 20
+	#The time in ticks it takes to use a scroll. This is the charge-up time when holding right-click.
+	#Range: > -2147483648
+	scrollUseTime = 32
+	#The cooldown between usages of the inventory button in seconds.
+	#Range: > -2147483648
+	inventoryButtonCooldown = 300
+
 [xpCost]
 	#Set to true if experience cost should be inverted, meaning the shorter the distance, the more expensive. Can be used to encourage other methods for short-distance travel.
 	inverseXpCost = false
@@ -63,26 +83,6 @@
 	allowWaystoneToWaystoneTeleport = true
 	#Set to false to allow non-creative players to make waystones globally activated for all players.
 	globalWaystoneSetupRequiresCreativeMode = true
-
-[cooldowns]
-	#The multiplier applied to the cooldown when teleporting to a global waystone via inventory button or warp stone.
-	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
-	globalWaystoneCooldownMultiplier = 1.0
-	#The cooldown between usages of the warp stone in seconds. This is bound to the player, not the item, so multiple warp stones share the same cooldown.
-	#Range: > -2147483648
-	warpStoneCooldown = 30
-	#The time in ticks that it takes to use a warp stone. This is the charge-up time when holding right-click.
-	#Range: > -2147483648
-	warpStoneUseTime = 32
-	#The time in ticks that it takes to use a warp plate. This is the time the player has to stand on top for.
-	#Range: > -2147483648
-	warpPlateUseTime = 20
-	#The time in ticks it takes to use a scroll. This is the charge-up time when holding right-click.
-	#Range: > -2147483648
-	scrollUseTime = 32
-	#The cooldown between usages of the inventory button in seconds.
-	#Range: > -2147483648
-	inventoryButtonCooldown = 300
 
 [inventoryButton]
 	#Set to 'NONE' for no inventory button. Set to 'NEAREST' for an inventory button that teleports to the nearest waystone. Set to 'ANY' for an inventory button that opens the waystone selection menu. Set to a waystone name for an inventory button that teleports to a specifically named waystone.
