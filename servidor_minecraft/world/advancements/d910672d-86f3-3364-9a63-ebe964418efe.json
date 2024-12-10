@@ -5530,5 +5530,17 @@
     },
     "done": true
   },
+  "nova_structures:nether/find_nether_skeleton": {
+    "criteria": {
+      "minecraft:fortress": "2024-12-10 03:50:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-10 03:50:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

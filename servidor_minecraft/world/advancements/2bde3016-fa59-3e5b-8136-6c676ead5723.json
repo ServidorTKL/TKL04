@@ -499,6 +499,7 @@
       "golden_apple": "2024-12-01 23:00:03 +0000",
       "rotten_flesh": "2024-12-01 02:45:27 +0000",
       "glow_berries": "2024-12-01 22:55:00 +0000",
+      "melon_slice": "2024-12-10 03:51:03 +0000",
       "cooked_rabbit": "2024-12-09 04:21:54 +0000",
       "cooked_chicken": "2024-12-04 03:18:31 +0000",
       "cod": "2024-12-06 04:24:38 +0000",
@@ -4314,6 +4315,12 @@
     },
     "done": true
   },
+  "nova_structures:nether/find_nether_skeleton": {
+    "criteria": {
+      "minecraft:fortress": "2024-12-10 03:50:48 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2024-12-10 03:35:04 +0000"
@@ -4323,6 +4330,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2024-12-10 03:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-10 03:50:48 +0000"
     },
     "done": true
   },

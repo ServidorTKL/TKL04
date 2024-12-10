@@ -3721,3 +3721,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [10Dec2024 03:41:23.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Dec2024 03:41:23.692] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Dec2024 03:41:30.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo moved too quickly! 10.144157689900624,0.7531999805212024,0.0891876818137689
+[10Dec2024 03:45:06.830] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[10Dec2024 03:46:23.669] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 03:46:23.682] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 03:49:02.329] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[10Dec2024 03:49:04.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo moved too quickly! 10.324841029005256,0.0,0.0011061459572943022
+[10Dec2024 03:49:28.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo moved too quickly! -10.177170431570516,-0.20000004768371582,-0.39537176631758086
+[10Dec2024 03:49:31.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo moved too quickly! -10.163320395044593,0.0,0.29479502327248497
+[10Dec2024 03:49:39.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo moved too quickly! -10.575862329881602,0.20000004768371582,-0.0011523954838423833
+[10Dec2024 03:50:29.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [A Terrible Fortress]
+[10Dec2024 03:50:48.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo has made the advancement [A Terrible Fortress]
+[10Dec2024 03:51:23.583] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 03:51:23.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
