@@ -476,3 +476,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [10Dec2024 03:58:21.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Into Fire]
 [10Dec2024 03:59:34.378] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
 [10Dec2024 04:02:50.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Nightmare Fuel]
+[10Dec2024 04:05:47.678] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[10Dec2024 04:05:51.779] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[10Dec2024 04:06:00.183] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[10Dec2024 04:08:38.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4156ms or 83 ticks behind
+[10Dec2024 04:10:03.739] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo lost connection: Disconnected
+[10Dec2024 04:10:03.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo left the game
+[10Dec2024 04:10:10.994] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonimelalabo[/127.219.119.160:37185] logged in with entity id 13328 at (-153.540013105559, 72.0, -917.7830853499431)
+[10Dec2024 04:10:11.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo joined the game
+[10Dec2024 04:11:47.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Local Brewery]
