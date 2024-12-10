@@ -5464,21 +5464,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sponge": {
-    "criteria": {
-      "has_wet_sponge": "2024-12-09 23:32:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2024-12-09 23:31:52 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_map": {
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
-      "cave_map": "2024-12-10 00:14:07 +0000"
+      "has_coal_ore": "2024-12-09 23:31:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-12-09 23:32:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2024-12-09 23:32:40 +0000"
     },
     "done": true
   },
@@ -5494,27 +5500,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2024-12-09 23:43:27 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2024-12-10 00:14:07 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
       "cave_book": "2024-12-10 00:14:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dripstone_block": {
+  "mca:chores": {
     "criteria": {
-      "has_pointed_dripstone": "2024-12-09 23:32:39 +0000"
+      "baby": "2024-12-10 00:45:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+  "minecraft:recipes/food/dried_kelp": {
     "criteria": {
-      "has_coal_ore": "2024-12-09 23:31:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_bed": {
-    "criteria": {
-      "has_red_wool": "2024-12-09 23:43:27 +0000"
+      "has_dried_kelp_block": "2024-12-10 02:51:28 +0000"
     },
     "done": true
   },
