@@ -4427,9 +4427,33 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/burrowing_arrow": {
+  "alexscaves:alexscaves/discover_forlorn_hollows": {
     "criteria": {
-      "burrowing_arrow": "2024-12-10 20:37:39 +0000"
+      "discover": "2024-12-10 20:22:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_watcher": {
+    "criteria": {
+      "killed": "2024-12-10 20:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2024-12-10 20:28:43 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/underzealot_sacrifice": {
+    "criteria": {
+      "underzealot_sacrifice": "2024-12-10 20:28:59 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gloomoth": {
+    "criteria": {
+      "killed": "2024-12-10 20:30:38 +0000"
     },
     "done": true
   },
@@ -4451,30 +4475,6 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_watcher": {
-    "criteria": {
-      "killed": "2024-12-10 20:26:40 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_gloomoth": {
-    "criteria": {
-      "killed": "2024-12-10 20:30:38 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/underzealot_sacrifice": {
-    "criteria": {
-      "underzealot_sacrifice": "2024-12-10 20:28:59 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_forlorn_hollows": {
-    "criteria": {
-      "discover": "2024-12-10 20:22:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mud_brick_slab": {
     "criteria": {
       "has_mud_bricks": "2024-12-10 20:37:30 +0000"
@@ -4493,9 +4493,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mud_bricks": {
+  "alexscaves:alexscaves/burrowing_arrow": {
     "criteria": {
-      "has_packed_mud": "2024-12-10 20:28:43 +0000"
+      "burrowing_arrow": "2024-12-10 20:37:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_corrodent": {
+    "criteria": {
+      "killed": "2024-12-11 02:18:47 +0000"
     },
     "done": true
   },
