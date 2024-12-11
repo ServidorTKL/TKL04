@@ -3706,3 +3706,32 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [11Dec2024 03:19:18.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rockmero: Set own game mode to Creative Mode]
 [11Dec2024 03:19:45.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rockmero: Teleported jonimelalabo to Rockmero]
 [11Dec2024 03:20:16.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rockmero: Teleported jonimelalabo to Rockmero]
+[11Dec2024 03:20:25.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rockmero: Set own game mode to Survival Mode]
+[11Dec2024 03:20:30.634] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[11Dec2024 03:20:49.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3912ms or 78 ticks behind
+[11Dec2024 03:23:50.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 03:23:50.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 03:23:51.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero was slain by Ferrous Wroughtnaut
+[11Dec2024 03:23:59.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2169ms or 43 ticks behind
+[11Dec2024 03:24:09.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rockmero: Teleported Rockmero to jonimelalabo]
+[11Dec2024 03:28:52.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 03:28:52.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 03:30:13.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has completed the challenge [Just a Flesh Wound]
+[11Dec2024 03:31:18.434] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo lost connection: Disconnected
+[11Dec2024 03:31:18.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo left the game
+[11Dec2024 03:31:33.535] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rockmero lost connection: Disconnected
+[11Dec2024 03:31:33.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero left the game
+[11Dec2024 03:32:00.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[11Dec2024 03:32:00.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11Dec2024 03:32:00.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11Dec2024 03:32:00.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11Dec2024 03:32:01.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11Dec2024 03:32:01.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11Dec2024 03:32:01.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11Dec2024 03:32:01.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 03:32:01.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 03:32:02.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11Dec2024 03:32:02.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11Dec2024 03:32:02.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11Dec2024 03:32:02.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11Dec2024 03:32:02.138] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
