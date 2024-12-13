@@ -3558,3 +3558,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [13Dec2024 02:33:26.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Dec2024 02:33:26.163] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [13Dec2024 02:36:21.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Noble]
+[13Dec2024 02:38:26.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 02:38:26.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 02:41:37.761] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[13Dec2024 02:41:37.763] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[13Dec2024 02:43:26.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 02:43:26.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
