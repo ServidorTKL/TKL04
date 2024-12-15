@@ -598,3 +598,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [15Dec2024 03:48:18.227] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=13, y=-58, z=25}
 [15Dec2024 03:50:22.792] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=101, y=70, z=155}
 [15Dec2024 03:50:23.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davichulo98 has made the advancement [Minecraft Comes Alive]
+[15Dec2024 03:51:31.419] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rockmero[/127.151.115.192:57699] logged in with entity id 3842 at (-137.32115544131884, 67.0, -883.433091828952)
+[15Dec2024 03:51:31.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero joined the game
+[15Dec2024 03:51:36.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4591ms or 91 ticks behind
+[15Dec2024 03:51:57.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rockmero: Teleported davichulo98 to Rockmero]
+[15Dec2024 03:52:03.841] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4416ms or 88 ticks behind
+[15Dec2024 03:52:26.353] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=48, z=214}
+[15Dec2024 03:52:26.355] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=48, z=214}
+[15Dec2024 03:52:26.356] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=49, z=214}
+[15Dec2024 03:52:26.356] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=48, z=214}
+[15Dec2024 03:52:26.357] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=49, z=214}
+[15Dec2024 03:52:26.358] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=49, z=214}
+[15Dec2024 03:52:26.359] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=50, z=214}
+[15Dec2024 03:52:26.360] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=50, z=214}
+[15Dec2024 03:52:26.362] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=50, z=214}
+[15Dec2024 03:52:40.684] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15Dec2024 03:52:45.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davichulo98 has made the advancement [Sweet Dreams]
+[15Dec2024 03:54:03.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davichulo98 has made the advancement [Suit Up]
+[15Dec2024 03:54:44.379] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=48, z=214}
+[15Dec2024 03:54:44.381] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=48, z=214}
+[15Dec2024 03:54:44.381] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=49, z=214}
+[15Dec2024 03:54:44.382] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=48, z=214}
+[15Dec2024 03:54:44.382] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=49, z=214}
+[15Dec2024 03:54:44.382] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=49, z=214}
+[15Dec2024 03:54:44.383] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=50, z=214}
+[15Dec2024 03:54:44.383] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=50, z=214}
+[15Dec2024 03:54:44.384] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=50, z=214}
+[15Dec2024 03:55:30.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo has made the advancement [Who's the Pillager Now?]
+[15Dec2024 03:55:45.228] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[15Dec2024 03:55:52.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rockmero: Teleported davichulo98 to Rockmero]
+[15Dec2024 03:57:51.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davichulo98 has made the advancement [Monster Hunter]
+[15Dec2024 03:59:21.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero was slain by Vindicator
+[15Dec2024 04:01:22.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davichulo98 has completed the challenge [Hero of the Village]
