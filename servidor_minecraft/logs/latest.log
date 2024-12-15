@@ -641,3 +641,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [15Dec2024 04:12:26.928] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
 [15Dec2024 04:15:35.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Spooky Scary Skeleton]
 [15Dec2024 04:16:14.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davichulo98 has made the advancement [Stone Age]
+[15Dec2024 04:22:17.292] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo lost connection: Disconnected
+[15Dec2024 04:22:17.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo left the game
+[15Dec2024 04:22:27.135] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonimelalabo[/127.96.167.206:51629] logged in with entity id 17823 at (-164.3542758484561, 65.0, -922.5526997558014)
+[15Dec2024 04:22:27.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo joined the game
+[15Dec2024 04:23:16.090] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo lost connection: Disconnected
+[15Dec2024 04:23:16.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo left the game
+[15Dec2024 04:23:50.355] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonimelalabo[/127.96.167.206:35003] logged in with entity id 18353 at (-162.34564087638407, 67.0, -918.0693414786492)
+[15Dec2024 04:23:50.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo joined the game
+[15Dec2024 04:29:53.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rockmero moved wrongly!
+[15Dec2024 04:32:06.478] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
