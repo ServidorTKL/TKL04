@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-15 03:58:02 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/neptunium_ingot_from_neptunium_block": {
     "criteria": {
       "has_items": "2024-12-15 03:48:14 +0000"
@@ -186,6 +192,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-15 03:58:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2024-12-15 03:48:14 +0000"
@@ -207,6 +219,12 @@
   "mcwfences:recipes/jungle": {
     "criteria": {
       "has_jungle": "2024-12-15 03:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-15 03:57:11 +0000"
     },
     "done": true
   },
@@ -247,6 +265,15 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2024-12-15 03:57:51 +0000",
+      "minecraft:skeleton": "2024-12-15 04:00:40 +0000",
+      "minecraft:spider": "2024-12-15 03:58:01 +0000",
+      "minecraft:zombie": "2024-12-15 03:59:36 +0000"
+    },
+    "done": false
+  },
   "mcwfences:recipes/mud_brick": {
     "criteria": {
       "has_qq": "2024-12-15 03:48:14 +0000"
@@ -274,6 +301,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2024-12-15 03:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-15 03:58:02 +0000"
     },
     "done": true
   },
@@ -316,6 +349,24 @@
   "smallships:recipes/transportation/mangrove_brigg": {
     "criteria": {
       "in_water": "2024-12-15 03:50:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2024-12-15 03:58:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-12-15 04:01:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-15 03:58:02 +0000"
     },
     "done": true
   },
@@ -376,6 +427,18 @@
   "aquaculture:recipes/misc/tin_can_to_iron_nugget_from_blasting": {
     "criteria": {
       "has_items": "2024-12-15 03:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-15 03:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-15 04:02:40 +0000"
     },
     "done": true
   },
@@ -577,6 +640,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-15 04:06:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-12-15 03:50:33 +0000"
@@ -592,6 +661,12 @@
   "aquaculture:recipes/decorations/acacia_fish_mount": {
     "criteria": {
       "has_items": "2024-12-15 03:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-15 03:58:02 +0000"
     },
     "done": true
   },
@@ -613,9 +688,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-15 03:57:12 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/diamond_hook": {
     "criteria": {
       "has_items": "2024-12-15 03:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2024-12-15 03:58:02 +0000"
     },
     "done": true
   },
@@ -629,6 +716,12 @@
     "criteria": {
       "has_alt_items": "2024-12-15 03:48:14 +0000",
       "has_items": "2024-12-15 03:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:pillager": "2024-12-15 03:57:51 +0000"
     },
     "done": true
   },
@@ -697,6 +790,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-15 03:58:02 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/spruce_drakkar": {
     "criteria": {
       "in_water": "2024-12-15 03:50:33 +0000"
@@ -712,6 +811,12 @@
   "mcwfences:recipes/birch": {
     "criteria": {
       "has_birch": "2024-12-15 03:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-15 03:57:12 +0000"
     },
     "done": true
   },

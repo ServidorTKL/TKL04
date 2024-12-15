@@ -630,3 +630,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [15Dec2024 03:57:51.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davichulo98 has made the advancement [Monster Hunter]
 [15Dec2024 03:59:21.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero was slain by Vindicator
 [15Dec2024 04:01:22.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davichulo98 has completed the challenge [Hero of the Village]
+[15Dec2024 04:02:40.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davichulo98 has made the advancement [Ol' Betsy]
+[15Dec2024 04:05:33.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2405ms or 48 ticks behind
+[15Dec2024 04:05:38.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davichulo98 moved too quickly! 9.30061975966737,-3.0,-2.9055990281389086
+[15Dec2024 04:05:38.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rockmero moved too quickly! 0.8154590782833111,0.41999998688697815,-10.200237429968183
+[15Dec2024 04:06:11.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davichulo98 was slain by Iron Golem
+[15Dec2024 04:08:38.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davichulo98 has made the advancement [Take Aim]
+[15Dec2024 04:09:21.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davichulo98 has made the advancement [Isn't It Iron Pick]
+[15Dec2024 04:09:46.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davichulo98 has made the advancement [Getting an Upgrade]
