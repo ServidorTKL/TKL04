@@ -4691,5 +4691,11 @@
     },
     "done": true
   },
+  "simpleplanes:recipes/plane": {
+    "criteria": {
+      "in_fire": "2024-12-16 18:59:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
