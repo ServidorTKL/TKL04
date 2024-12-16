@@ -629,3 +629,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [16Dec2024 03:27:59.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rockmero moved wrongly!
 [16Dec2024 03:28:03.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo moved wrongly!
 [16Dec2024 03:28:04.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rockmero moved wrongly!
+[16Dec2024 03:43:01.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo tried to swim in lava
