@@ -4336,6 +4336,7 @@
     "criteria": {
       "entered_tower_of_the_undead": "2024-12-04 18:14:12 +0000",
       "entered_stables": "2024-12-03 04:24:23 +0000",
+      "entered_hay_storage": "2024-12-16 02:30:29 +0000",
       "entered_deep_crypt": "2024-12-03 03:15:55 +0000",
       "entered_tree_house": "2024-12-10 20:18:38 +0000",
       "entered_ruined_building": "2024-12-03 04:12:44 +0000"
@@ -5719,12 +5720,6 @@
     },
     "done": true
   },
-  "simpleplanes:recipes/plane": {
-    "criteria": {
-      "in_fire": "2024-12-15 04:17:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2024-12-15 04:15:35 +0000"
@@ -5734,6 +5729,12 @@
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2024-12-15 04:15:35 +0000"
+    },
+    "done": true
+  },
+  "simpleplanes:recipes/plane": {
+    "criteria": {
+      "in_fire": "2024-12-15 04:17:46 +0000"
     },
     "done": true
   },

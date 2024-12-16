@@ -403,8 +403,10 @@
       "minecraft:forest": "2024-12-01 02:36:59 +0000",
       "minecraft:windswept_forest": "2024-12-04 03:39:37 +0000",
       "minecraft:jungle": "2024-12-10 20:17:23 +0000",
+      "minecraft:ocean": "2024-12-15 04:35:06 +0000",
       "minecraft:meadow": "2024-12-03 04:29:49 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-04 03:32:10 +0000",
+      "minecraft:savanna": "2024-12-15 04:32:18 +0000",
       "minecraft:plains": "2024-12-01 02:42:10 +0000"
     },
     "done": false
@@ -4575,6 +4577,18 @@
   "minecraft:recipes/decorations/light_blue_candle": {
     "criteria": {
       "has_light_blue_dye": "2024-12-15 04:15:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-12-15 04:33:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-12-15 04:33:46 +0000"
     },
     "done": true
   },
