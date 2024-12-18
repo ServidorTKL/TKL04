@@ -4375,3 +4375,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [18Dec2024 03:53:51.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo has completed the challenge [Best Friends]
 [18Dec2024 03:55:10.493] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Giang'/10239, l='ServerLevel[world]', x=-167.78, y=61.93, z=-950.78] died, message: 'Giang drowned'
 [18Dec2024 03:55:10.494] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Giang'/10239, l='ServerLevel[world]', x=-167.78, y=61.93, z=-950.78] died: Giang drowned
+[18Dec2024 03:58:39.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 03:58:39.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 04:01:10.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rockmero moved wrongly!
+[18Dec2024 04:02:29.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo moved wrongly!
+[18Dec2024 04:03:07.649] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tran'/10254, l='ServerLevel[world]', x=-110.65, y=65.92, z=-881.57] died, message: 'Tran was sniped by Archer'
+[18Dec2024 04:03:07.651] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Tran'/10254, l='ServerLevel[world]', x=-110.65, y=65.92, z=-881.57] died: Tran was sniped by Archer
+[18Dec2024 04:03:39.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 04:03:39.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 04:08:39.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 04:08:39.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

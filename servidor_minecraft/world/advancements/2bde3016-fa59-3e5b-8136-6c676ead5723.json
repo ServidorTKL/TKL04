@@ -4848,6 +4848,12 @@
     },
     "done": true
   },
+  "mca:best_friend": {
+    "criteria": {
+      "baby": "2024-12-18 03:53:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2024-12-18 03:14:16 +0000"
