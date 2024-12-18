@@ -568,3 +568,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [18Dec2024 03:16:55.828] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
 [18Dec2024 03:16:55.829] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
 [18Dec2024 03:17:15.540] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[18Dec2024 03:29:10.940] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
