@@ -4365,3 +4365,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [18Dec2024 03:38:31.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Dec2024 03:43:31.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Dec2024 03:43:31.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 03:48:31.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 03:48:31.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 03:52:28.243] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7605ms or 152 ticks behind
+[18Dec2024 03:53:14.539] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[18Dec2024 03:53:23.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonimelalabo> e
+[18Dec2024 03:53:39.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 03:53:39.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 03:53:51.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo has completed the challenge [Best Friends]
+[18Dec2024 03:55:10.493] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Giang'/10239, l='ServerLevel[world]', x=-167.78, y=61.93, z=-950.78] died, message: 'Giang drowned'
+[18Dec2024 03:55:10.494] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Giang'/10239, l='ServerLevel[world]', x=-167.78, y=61.93, z=-950.78] died: Giang drowned

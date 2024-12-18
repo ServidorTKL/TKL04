@@ -4824,9 +4824,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-18 03:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-12-18 03:46:16 +0000"
+    },
+    "done": true
+  },
   "illagerinvasion:recipes/misc/platinum_sheet": {
     "criteria": {
       "has_platinum_chunk": "2024-12-18 03:03:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-18 03:46:11 +0000"
     },
     "done": true
   },
@@ -4845,6 +4863,18 @@
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2024-12-18 03:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-18 03:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-12-18 03:46:16 +0000"
     },
     "done": true
   },

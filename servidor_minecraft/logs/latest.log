@@ -569,3 +569,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [18Dec2024 03:16:55.829] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
 [18Dec2024 03:17:15.540] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [18Dec2024 03:29:10.940] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[18Dec2024 03:52:28.243] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7605ms or 152 ticks behind
+[18Dec2024 03:53:14.539] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[18Dec2024 03:53:23.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonimelalabo> e
+[18Dec2024 03:53:51.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo has completed the challenge [Best Friends]
+[18Dec2024 03:55:10.493] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Giang'/10239, l='ServerLevel[world]', x=-167.78, y=61.93, z=-950.78] died, message: 'Giang drowned'
+[18Dec2024 03:55:10.494] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Giang'/10239, l='ServerLevel[world]', x=-167.78, y=61.93, z=-950.78] died: Giang drowned
