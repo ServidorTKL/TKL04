@@ -699,6 +699,7 @@
       "apple": "2024-12-04 03:55:31 +0000",
       "spider_eye": "2024-12-08 04:27:58 +0000",
       "potato": "2024-12-02 02:19:10 +0000",
+      "cooked_cod": "2024-12-18 03:08:39 +0000",
       "pumpkin_pie": "2024-12-03 19:48:14 +0000",
       "mutton": "2024-12-15 03:55:33 +0000",
       "pufferfish": "2024-12-09 18:43:34 +0000",
@@ -5797,6 +5798,12 @@
   "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
       "killed_by": "2024-12-18 02:41:46 +0000"
+    },
+    "done": true
+  },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2024-12-18 03:10:07 +0000"
     },
     "done": true
   },
