@@ -5794,5 +5794,11 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2024-12-18 02:41:46 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
