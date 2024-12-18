@@ -4836,5 +4836,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-12-18 03:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2024-12-18 03:35:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
