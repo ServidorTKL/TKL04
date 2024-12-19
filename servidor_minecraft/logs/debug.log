@@ -3960,3 +3960,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [19Dec2024 03:42:51.855] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 9(0) Nodes and 4(0) Rooms
 [19Dec2024 03:43:53.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rockmero moved too quickly! -0.27119718388394176,-5.681558398058314,8.732767757142028
 [19Dec2024 03:43:55.542] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Ellie}[style={}] has been infected
+[19Dec2024 03:47:45.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 03:47:45.490] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 03:48:21.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Digging Deep]
+[19Dec2024 03:50:51.227] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[19Dec2024 03:50:52.267] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Khanh'/2433, l='ServerLevel[world]', x=-136.97, y=69.00, z=-890.91] died, message: 'Khanh suffocated in a wall'
+[19Dec2024 03:50:52.267] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Khanh'/2433, l='ServerLevel[world]', x=-136.97, y=69.00, z=-890.91] died: Khanh suffocated in a wall
+[19Dec2024 03:52:42.527] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[19Dec2024 03:52:42.528] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[19Dec2024 03:52:45.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 03:52:45.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 03:53:47.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo has made the advancement [Merchant]
