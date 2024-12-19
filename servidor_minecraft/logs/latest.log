@@ -575,3 +575,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [19Dec2024 01:46:46.073] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [19Dec2024 01:46:46.073] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [19Dec2024 01:46:46.074] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 01:49:26.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of jonimelalabo) moved wrongly! 0.4693015212803857
+[19Dec2024 01:49:26.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of jonimelalabo) moved wrongly! 0.3697800055914513
+[19Dec2024 01:49:26.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of jonimelalabo) moved wrongly! 0.2745640325141494
+[19Dec2024 01:49:40.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo moved wrongly!
+[19Dec2024 01:50:08.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Rockmero) moved wrongly! 0.4714954876209845
+[19Dec2024 01:50:08.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Rockmero) moved wrongly! 0.5990058972716383
+[19Dec2024 01:50:08.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Rockmero) moved wrongly! 0.6085684754843896
+[19Dec2024 01:50:08.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Rockmero) moved wrongly! 0.6238304671109063
+[19Dec2024 01:50:08.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Rockmero) moved wrongly! 0.6422434950398497
+[19Dec2024 01:57:20.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonimelalabo> -3496 ~ -5800
