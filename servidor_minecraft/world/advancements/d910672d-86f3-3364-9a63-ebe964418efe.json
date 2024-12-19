@@ -4331,7 +4331,8 @@
   },
   "dungeons_enhanced:seven_world_wonders": {
     "criteria": {
-      "entered_deep_crypt": "2024-12-03 03:15:55 +0000"
+      "entered_deep_crypt": "2024-12-03 03:15:55 +0000",
+      "entered_jungle_monument": "2024-12-19 02:01:39 +0000"
     },
     "done": false
   },
@@ -4342,7 +4343,8 @@
       "entered_hay_storage": "2024-12-16 02:30:29 +0000",
       "entered_deep_crypt": "2024-12-03 03:15:55 +0000",
       "entered_tree_house": "2024-12-10 20:18:38 +0000",
-      "entered_ruined_building": "2024-12-03 04:12:44 +0000"
+      "entered_ruined_building": "2024-12-03 04:12:44 +0000",
+      "entered_jungle_monument": "2024-12-19 02:01:39 +0000"
     },
     "done": false
   },
@@ -5804,6 +5806,12 @@
   "illagerinvasion:recipes/misc/platinum_sheet": {
     "criteria": {
       "has_platinum_chunk": "2024-12-18 03:10:07 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ancient_civilizations": {
+    "criteria": {
+      "entered_jungle_monument": "2024-12-19 02:01:39 +0000"
     },
     "done": true
   },

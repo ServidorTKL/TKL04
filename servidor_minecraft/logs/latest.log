@@ -585,3 +585,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [19Dec2024 01:50:08.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Rockmero) moved wrongly! 0.6238304671109063
 [19Dec2024 01:50:08.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Rockmero) moved wrongly! 0.6422434950398497
 [19Dec2024 01:57:20.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonimelalabo> -3496 ~ -5800
+[19Dec2024 02:00:54.896] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[19Dec2024 02:01:05.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rockmero moved wrongly!
+[19Dec2024 02:01:20.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo moved wrongly!
+[19Dec2024 02:01:20.651] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10406ms or 208 ticks behind
+[19Dec2024 02:01:20.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonimelalabo> t
+[19Dec2024 02:01:35.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo has made the advancement [Ancient Civilizations]
+[19Dec2024 02:01:39.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Ancient Civilizations]

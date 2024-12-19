@@ -3699,7 +3699,8 @@
   },
   "dungeons_enhanced:seven_world_wonders": {
     "criteria": {
-      "entered_deep_crypt": "2024-12-03 03:15:57 +0000"
+      "entered_deep_crypt": "2024-12-03 03:15:57 +0000",
+      "entered_jungle_monument": "2024-12-19 02:01:35 +0000"
     },
     "done": false
   },
@@ -3709,7 +3710,8 @@
       "entered_deep_crypt": "2024-12-03 03:15:57 +0000",
       "entered_watch_tower": "2024-12-04 03:46:35 +0000",
       "entered_tree_house": "2024-12-16 03:22:27 +0000",
-      "entered_ruined_building": "2024-12-03 04:12:32 +0000"
+      "entered_ruined_building": "2024-12-03 04:12:32 +0000",
+      "entered_jungle_monument": "2024-12-19 02:01:35 +0000"
     },
     "done": false
   },
@@ -4881,6 +4883,12 @@
   "mca:best_friend": {
     "criteria": {
       "baby": "2024-12-18 03:53:51 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ancient_civilizations": {
+    "criteria": {
+      "entered_jungle_monument": "2024-12-19 02:01:35 +0000"
     },
     "done": true
   },
