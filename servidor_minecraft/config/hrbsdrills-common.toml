@@ -1,0 +1,12 @@
+#Whether to drop blocks when drilling
+dropBlock = true
+#Fuel efficiency of the drill. Bigger the value, the less efficient the drill is.
+#Range: > 1
+fuelEfficiency = 12
+#Volume of the Drilling Sound.
+#Range: 0.0 ~ 2.147483647E9
+volume = 0.25
+#Pitch of the Drilling Sound.
+#Range: 0.0 ~ 2.147483647E9
+pitch = 1.0
+
