@@ -604,3 +604,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [19Dec2024 02:17:01.796] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [19Dec2024 02:18:24.747] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [19Dec2024 02:18:26.647] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[19Dec2024 02:20:14.813] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tomáš'/13252, l='ServerLevel[world]', x=-662.58, y=113.00, z=-2863.70] died, message: 'Tomáš was slain by Zombie'
+[19Dec2024 02:20:14.815] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Tomáš'/13252, l='ServerLevel[world]', x=-662.58, y=113.00, z=-2863.70] died: Tomáš was slain by Zombie
+[19Dec2024 02:24:19.402] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo lost connection: Disconnected
+[19Dec2024 02:24:19.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo left the game
+[19Dec2024 02:24:23.325] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rockmero lost connection: Disconnected
+[19Dec2024 02:24:23.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero left the game
+[19Dec2024 02:24:27.653] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonimelalabo[/127.10.178.169:39901] logged in with entity id 15014 at (-848.1473295831189, 129.0, -3196.1027502040406)
+[19Dec2024 02:24:27.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo joined the game
+[19Dec2024 02:24:44.314] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rockmero[/127.151.115.192:34305] logged in with entity id 15090 at (-848.2692242689441, 127.0, -3210.699999988079)
+[19Dec2024 02:24:44.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero joined the game
+[19Dec2024 02:24:50.698] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo lost connection: Disconnected
+[19Dec2024 02:24:50.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo left the game
+[19Dec2024 02:25:19.149] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rockmero lost connection: Disconnected
+[19Dec2024 02:25:19.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero left the game
+[19Dec2024 02:25:32.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[19Dec2024 02:25:32.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Dec2024 02:25:32.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Dec2024 02:25:32.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Dec2024 02:25:38.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19Dec2024 02:25:38.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19Dec2024 02:25:38.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19Dec2024 02:25:39.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19Dec2024 02:25:39.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19Dec2024 02:25:39.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19Dec2024 02:25:39.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
