@@ -6361,3 +6361,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [20Dec2024 04:02:15.912] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
 [20Dec2024 04:04:15.176] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tan'/688, l='ServerLevel[world]', x=-182.23, y=62.66, z=-875.98] died, message: 'Tan was sniped by Archer'
 [20Dec2024 04:04:15.177] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Tan'/688, l='ServerLevel[world]', x=-182.23, y=62.66, z=-875.98] died: Tan was sniped by Archer
+[20Dec2024 04:06:34.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 04:06:34.263] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 04:11:34.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 04:11:34.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 04:12:21.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has completed the challenge [A Soul for a Soul]
