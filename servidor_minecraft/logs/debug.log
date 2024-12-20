@@ -6142,3 +6142,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [20Dec2024 03:12:56.819] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Hung'/704, l='ServerLevel[world]', x=-139.56, y=62.23, z=-875.70] died: Hung drowned
 [20Dec2024 03:14:39.367] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tuyet'/695, l='ServerLevel[world]', x=-139.56, y=62.31, z=-874.27] died, message: 'Tuyet drowned'
 [20Dec2024 03:14:39.368] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Tuyet'/695, l='ServerLevel[world]', x=-139.56, y=62.31, z=-874.27] died: Tuyet drowned
+[20Dec2024 03:16:34.272] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 03:16:34.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 03:19:52.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drill (vehicle of Rockmero) moved wrongly! 0.29280330919951325
+[20Dec2024 03:19:52.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drill (vehicle of Rockmero) moved wrongly! 0.29280330919951325
+[20Dec2024 03:21:34.222] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 03:21:34.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
