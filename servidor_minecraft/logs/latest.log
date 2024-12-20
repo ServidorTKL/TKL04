@@ -1310,3 +1310,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [20Dec2024 04:12:21.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has completed the challenge [A Soul for a Soul]
 [20Dec2024 04:26:06.128] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo lost connection: Disconnected
 [20Dec2024 04:26:06.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo left the game
+[20Dec2024 04:26:43.671] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rockmero lost connection: Disconnected
+[20Dec2024 04:26:43.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero left the game
+[20Dec2024 04:27:02.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[20Dec2024 04:27:02.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Dec2024 04:27:02.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Dec2024 04:27:02.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20Dec2024 04:27:02.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20Dec2024 04:27:04.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20Dec2024 04:27:04.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20Dec2024 04:27:04.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Dec2024 04:27:04.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Dec2024 04:27:04.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Dec2024 04:27:04.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
