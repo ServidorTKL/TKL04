@@ -6164,3 +6164,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [20Dec2024 03:31:56.816] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Hat'/632, l='ServerLevel[world]', x=-138.30, y=62.30, z=-875.70] died: Hat drowned
 [20Dec2024 03:33:09.166] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tuy'/633, l='ServerLevel[world]', x=-138.28, y=62.45, z=-875.72] died, message: 'Tuy drowned'
 [20Dec2024 03:33:09.168] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Tuy'/633, l='ServerLevel[world]', x=-138.28, y=62.45, z=-875.72] died: Tuy drowned
+[20Dec2024 03:36:34.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 03:36:34.211] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 03:38:56.827] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=-224, y=77, z=-941} in minecraft:overworld
+[20Dec2024 03:38:56.828] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 18227
+[20Dec2024 03:38:56.830] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 0 totems
+[20Dec2024 03:39:03.529] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=-224, y=77, z=-941} in minecraft:overworld
+[20Dec2024 03:39:03.530] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 18361
+[20Dec2024 03:39:03.530] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 0 totems
+[20Dec2024 03:39:08.323] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=-224, y=77, z=-941} in minecraft:overworld
+[20Dec2024 03:39:08.324] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 18457
+[20Dec2024 03:39:08.324] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 0 totems
+[20Dec2024 03:39:50.762] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[20Dec2024 03:41:08.725] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=-224, y=77, z=-941} in minecraft:overworld
+[20Dec2024 03:41:08.726] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 20865
+[20Dec2024 03:41:08.726] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 3 totems
+[20Dec2024 03:41:34.197] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 03:41:34.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
