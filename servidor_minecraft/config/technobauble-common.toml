@@ -1,0 +1,64 @@
+
+[Blocks]
+
+	[Blocks.Charger]
+		#Maximum energy input (FE/t)
+		#Range: 0.0 ~ 3.4028234663852886E38
+		MaxInput = 50000.0
+		#Energy capacity (FE)
+		#Range: 0.0 ~ 3.4028234663852886E38
+		Capacity = 1000000.0
+		#Energy loss ratio when charging
+		#Range: 0.0 ~ 1.0
+		TransferLoss = 0.25
+
+[Items]
+
+	[Items.Shield]
+		#Maximum energy input (FE/t)
+		#Range: 0.0 ~ 3.4028234663852886E38
+		MaxInput = 20000.0
+		#Energy capacity (FE)
+		#Range: 0.0 ~ 3.4028234663852886E38
+		Capacity = 5000000.0
+		#FE used to absorb 1 point of damange
+		#Range: 0.0 ~ 3.4028234663852886E38
+		DamageAbsorbCost = 10000.0
+
+	[Items.Magnet]
+		#Maximum energy input (FE/t)
+		#Range: 0.0 ~ 3.4028234663852886E38
+		MaxInput = 500.0
+		#Energy capacity (FE)
+		#Range: 0.0 ~ 3.4028234663852886E38
+		Capacity = 100000.0
+		#Radius to pull items (meters)
+		#Range: 0.0 ~ 64.0
+		AttractRadius = 8.0
+		#FE used to pull 1 item
+		#Range: 0.0 ~ 3.4028234663852886E38
+		EnergyPerItem = 50.0
+
+	[Items.Legs]
+		#Maximum energy input (FE/t)
+		#Range: 0.0 ~ 3.4028234663852886E38
+		MaxInput = 500.0
+		#Energy capacity (FE)
+		#Range: 0.0 ~ 3.4028234663852886E38
+		Capacity = 100000.0
+		#FE/t used while moving
+		#Range: 0.0 ~ 64.0
+		MovingEnergyCost = 64.0
+		#FE used per jump
+		#Range: 0.0 ~ 3.4028234663852886E38
+		JumpEnergyCost = 500.0
+		#Added jump velocity
+		#Range: 0.0 ~ 3.4028234663852886E38
+		JumpBoost = 0.25
+		#Added run velocity
+		#Range: 0.0 ~ 3.4028234663852886E38
+		RunBoost = 0.20000000298023224
+		#FE used to absorb fall damage
+		#Range: 0.0 ~ 3.4028234663852886E38
+		FallAbsorbCost = 1000.0
+
