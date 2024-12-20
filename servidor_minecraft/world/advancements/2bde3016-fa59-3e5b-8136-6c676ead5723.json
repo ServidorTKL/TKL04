@@ -4999,9 +4999,21 @@
     },
     "done": true
   },
+  "mca:recipes/misc/staff_of_life": {
+    "criteria": {
+      "has_item": "2024-12-20 03:50:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2024-12-20 03:15:13 +0000"
+    },
+    "done": true
+  },
+  "mca:adventure/kill_grim_reaper": {
+    "criteria": {
+      "killed_reaper": "2024-12-20 03:49:49 +0000"
     },
     "done": true
   },
@@ -5062,6 +5074,12 @@
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2024-12-20 03:14:12 +0000"
+    },
+    "done": true
+  },
+  "mca:grow_child": {
+    "criteria": {
+      "baby": "2024-12-20 03:56:45 +0000"
     },
     "done": true
   },

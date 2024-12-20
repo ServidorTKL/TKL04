@@ -1280,3 +1280,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [20Dec2024 03:41:08.725] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=-224, y=77, z=-941} in minecraft:overworld
 [20Dec2024 03:41:08.726] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 20865
 [20Dec2024 03:41:08.726] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 3 totems
+[20Dec2024 03:49:49.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo has completed the challenge [Beat Death]
+[20Dec2024 03:51:06.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero withered away
+[20Dec2024 03:54:01.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rockmero moved wrongly!
+[20Dec2024 03:55:04.612] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[20Dec2024 03:55:12.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of jonimelalabo) moved wrongly! 0.3254058324692437
+[20Dec2024 03:55:12.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of jonimelalabo) moved wrongly! 0.8120232325537131
+[20Dec2024 03:55:12.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of jonimelalabo) moved wrongly! 1.3052097605579007
+[20Dec2024 03:55:12.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of jonimelalabo) moved wrongly! 1.8016723710342006
+[20Dec2024 03:55:12.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of jonimelalabo) moved wrongly! 0.3556759703353123
+[20Dec2024 03:55:13.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of jonimelalabo) moved wrongly! 0.3612762924585553
+[20Dec2024 03:55:13.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of jonimelalabo) moved wrongly! 0.36325073476486125
+[20Dec2024 03:55:13.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of jonimelalabo) moved wrongly! 0.3642499273799302
+[20Dec2024 03:55:13.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of jonimelalabo) moved wrongly! 0.365639628792934
+[20Dec2024 03:55:13.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of jonimelalabo) moved wrongly! 0.3666533261074676
+[20Dec2024 03:55:13.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of jonimelalabo) moved wrongly! 0.3662302109824651
+[20Dec2024 03:55:13.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of jonimelalabo) moved wrongly! 0.856297104280614
+[20Dec2024 03:55:13.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of jonimelalabo) moved wrongly! 0.3087067124456553
+[20Dec2024 03:55:13.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of jonimelalabo) moved wrongly! 0.2866525645533642
+[20Dec2024 03:55:13.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of jonimelalabo) moved wrongly! 0.2629166602899886
+[20Dec2024 03:56:45.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo has made the advancement [What a Handful]
+[20Dec2024 03:56:54.832] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Thomas'/28844, l='ServerLevel[world]', x=-594.58, y=81.00, z=-1342.06] died, message: 'Thomas was slain by Rockmero'
+[20Dec2024 03:56:54.835] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Thomas'/28844, l='ServerLevel[world]', x=-594.58, y=81.00, z=-1342.06] died: Thomas was slain by Rockmero
+[20Dec2024 03:56:54.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Become the Grim Reaper]
+[20Dec2024 03:58:44.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rockmero moved wrongly!
+[20Dec2024 04:02:15.912] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[20Dec2024 04:04:15.176] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tan'/688, l='ServerLevel[world]', x=-182.23, y=62.66, z=-875.98] died, message: 'Tan was sniped by Archer'
+[20Dec2024 04:04:15.177] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Tan'/688, l='ServerLevel[world]', x=-182.23, y=62.66, z=-875.98] died: Tan was sniped by Archer
