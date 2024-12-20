@@ -6366,3 +6366,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [20Dec2024 04:11:34.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Dec2024 04:11:34.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [20Dec2024 04:12:21.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has completed the challenge [A Soul for a Soul]
+[20Dec2024 04:16:34.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 04:16:34.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 04:21:34.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 04:21:34.208] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 04:26:06.128] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo lost connection: Disconnected
+[20Dec2024 04:26:06.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo left the game

@@ -1308,3 +1308,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [20Dec2024 04:04:15.176] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tan'/688, l='ServerLevel[world]', x=-182.23, y=62.66, z=-875.98] died, message: 'Tan was sniped by Archer'
 [20Dec2024 04:04:15.177] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Tan'/688, l='ServerLevel[world]', x=-182.23, y=62.66, z=-875.98] died: Tan was sniped by Archer
 [20Dec2024 04:12:21.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has completed the challenge [A Soul for a Soul]
+[20Dec2024 04:26:06.128] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo lost connection: Disconnected
+[20Dec2024 04:26:06.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo left the game
