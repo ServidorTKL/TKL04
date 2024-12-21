@@ -3913,3 +3913,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [21Dec2024 23:45:04.549] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Dec2024 23:46:06.184] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Duoc'/578, l='ServerLevel[world]', x=-133.89, y=63.56, z=-894.50] died, message: 'Duoc suffocated in a wall'
 [21Dec2024 23:46:06.185] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Duoc'/578, l='ServerLevel[world]', x=-133.89, y=63.56, z=-894.50] died: Duoc suffocated in a wall
+[21Dec2024 23:50:04.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 23:50:04.269] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 23:53:23.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo moved wrongly!
+[21Dec2024 23:55:04.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 23:55:04.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

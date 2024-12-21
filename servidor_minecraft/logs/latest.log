@@ -594,3 +594,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [21Dec2024 23:43:02.529] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
 [21Dec2024 23:46:06.184] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Duoc'/578, l='ServerLevel[world]', x=-133.89, y=63.56, z=-894.50] died, message: 'Duoc suffocated in a wall'
 [21Dec2024 23:46:06.185] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Duoc'/578, l='ServerLevel[world]', x=-133.89, y=63.56, z=-894.50] died: Duoc suffocated in a wall
+[21Dec2024 23:53:23.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo moved wrongly!
