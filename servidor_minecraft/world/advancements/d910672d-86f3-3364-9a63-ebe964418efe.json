@@ -5863,19 +5863,37 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2024-12-20 02:58:06 +0000"
-    },
-    "done": true
-  },
   "illagerinvasion:recipes/decorations/imbuing_table": {
     "criteria": {
       "has_primal_essence": "2024-12-20 02:58:05 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-20 02:58:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2024-12-20 02:58:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2024-12-20 02:58:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2024-12-20 02:58:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
     "criteria": {
       "has_green_wool": "2024-12-20 02:58:08 +0000"
     },
@@ -5887,33 +5905,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/green_carpet": {
-    "criteria": {
-      "has_green_wool": "2024-12-20 02:58:08 +0000"
-    },
-    "done": true
-  },
-  "mca:adventure/scythe_revive": {
-    "criteria": {
-      "iron": "2024-12-20 04:12:21 +0000"
-    },
-    "done": true
-  },
   "mca:adventure/scythe_kill": {
     "criteria": {
       "iron": "2024-12-20 03:56:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/green_bed": {
+  "mca:adventure/scythe_revive": {
     "criteria": {
-      "has_green_wool": "2024-12-20 02:58:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
-    "criteria": {
-      "has_eye_armor_trim_smithing_template": "2024-12-20 02:58:06 +0000"
+      "iron": "2024-12-20 04:12:21 +0000"
     },
     "done": true
   },
