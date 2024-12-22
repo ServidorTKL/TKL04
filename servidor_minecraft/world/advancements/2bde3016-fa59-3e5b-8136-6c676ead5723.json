@@ -403,6 +403,7 @@
       "minecraft:swamp": "2024-12-01 02:50:19 +0000",
       "minecraft:cold_ocean": "2024-12-04 04:05:17 +0000",
       "minecraft:forest": "2024-12-01 02:36:59 +0000",
+      "minecraft:desert": "2024-12-22 01:02:45 +0000",
       "minecraft:windswept_forest": "2024-12-04 03:39:37 +0000",
       "minecraft:jungle": "2024-12-10 20:17:23 +0000",
       "minecraft:ocean": "2024-12-15 04:35:06 +0000",
@@ -1441,6 +1442,7 @@
       "minecraft:zombified_piglin": "2024-12-10 03:53:07 +0000",
       "minecraft:witch": "2024-12-03 04:08:50 +0000",
       "minecraft:wither_skeleton": "2024-12-02 02:48:58 +0000",
+      "minecraft:husk": "2024-12-22 01:05:40 +0000",
       "minecraft:cave_spider": "2024-12-02 02:27:17 +0000",
       "minecraft:stray": "2024-12-02 02:38:54 +0000",
       "minecraft:enderman": "2024-12-03 02:19:45 +0000",
@@ -3704,6 +3706,7 @@
   "dungeons_enhanced:seven_world_wonders": {
     "criteria": {
       "entered_deep_crypt": "2024-12-03 03:15:57 +0000",
+      "entered_desert_temple": "2024-12-22 01:06:50 +0000",
       "entered_jungle_monument": "2024-12-19 02:01:35 +0000"
     },
     "done": false
@@ -3712,6 +3715,7 @@
     "criteria": {
       "entered_stables": "2024-12-03 04:24:30 +0000",
       "entered_deep_crypt": "2024-12-03 03:15:57 +0000",
+      "entered_desert_temple": "2024-12-22 01:06:50 +0000",
       "entered_watch_tower": "2024-12-04 03:46:35 +0000",
       "entered_tree_house": "2024-12-16 03:22:27 +0000",
       "entered_ruined_building": "2024-12-03 04:12:32 +0000",
@@ -5134,6 +5138,132 @@
   "mca:grow_adult": {
     "criteria": {
       "baby": "2024-12-21 04:48:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-22 01:03:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2024-12-22 01:03:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-22 01:03:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-22 01:03:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2024-12-22 01:03:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-12-22 01:04:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-22 01:04:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-22 01:04:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-22 01:04:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-22 01:04:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-12-22 01:04:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-22 01:04:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-22 01:04:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-22 01:04:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-22 01:04:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-12-22 01:04:23 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:traps_and_curses": {
+    "criteria": {
+      "entered_desert_temple": "2024-12-22 01:06:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2024-12-22 01:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2024-12-22 01:08:02 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2024-12-22 01:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-22 01:24:53 +0000"
     },
     "done": true
   },
