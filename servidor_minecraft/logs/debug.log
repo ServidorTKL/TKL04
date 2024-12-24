@@ -4124,3 +4124,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [24Dec2024 03:58:12.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Dec2024 04:03:12.691] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Dec2024 04:03:12.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 04:08:12.688] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 04:08:12.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 04:11:49.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonimelalabo> ya rey
+[24Dec2024 04:11:54.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonimelalabo> hasta mañana
+[24Dec2024 04:11:58.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rockmero> esatmos listo?
+[24Dec2024 04:12:01.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rockmero> dale
+[24Dec2024 04:12:02.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonimelalabo> me wa mimir
+[24Dec2024 04:12:07.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rockmero> compañero
+[24Dec2024 04:12:13.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonimelalabo> mañana entro a las entonces xd
+[24Dec2024 04:12:23.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonimelalabo> cierro nomas?
+[24Dec2024 04:13:12.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 04:13:12.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 04:13:20.682] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rockmero lost connection: Disconnected
+[24Dec2024 04:13:20.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero left the game
+[24Dec2024 04:13:23.878] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo lost connection: Disconnected
+[24Dec2024 04:13:23.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo left the game
+[24Dec2024 04:13:34.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[24Dec2024 04:13:34.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Dec2024 04:13:34.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Dec2024 04:13:34.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Dec2024 04:13:34.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Dec2024 04:13:35.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Dec2024 04:13:35.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Dec2024 04:13:35.509] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 04:13:35.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 04:13:35.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Dec2024 04:13:35.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Dec2024 04:13:35.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Dec2024 04:13:35.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[24Dec2024 04:13:35.684] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
