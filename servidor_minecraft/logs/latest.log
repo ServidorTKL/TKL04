@@ -617,3 +617,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [24Dec2024 03:26:09.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonimelalabo> necesito que tradee si porque da diamante
 [24Dec2024 03:38:58.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo has made the advancement [Chores]
 [24Dec2024 03:46:27.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rockmero> esta wea esta demorando mucho
+[24Dec2024 03:52:55.979] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Hoc}[style={}] has been infected
+[24Dec2024 03:54:32.645] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lai'/27006, l='ServerLevel[world]', x=-75.92, y=66.00, z=-874.25] died, message: 'Lai was slain by Rockmero'
+[24Dec2024 03:55:19.184] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Hoc'/18040, l='ServerLevel[world]', x=-98.37, y=67.94, z=-874.50] died, message: 'Hoc was slain by Rockmero'

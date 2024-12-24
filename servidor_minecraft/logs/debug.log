@@ -4113,3 +4113,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [24Dec2024 03:43:12.717] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Dec2024 03:43:12.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Dec2024 03:46:27.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rockmero> esta wea esta demorando mucho
+[24Dec2024 03:48:12.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 03:48:12.678] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 03:52:55.979] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Hoc}[style={}] has been infected
+[24Dec2024 03:53:12.680] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 03:53:12.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 03:54:32.645] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lai'/27006, l='ServerLevel[world]', x=-75.92, y=66.00, z=-874.25] died, message: 'Lai was slain by Rockmero'
+[24Dec2024 03:55:19.184] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Hoc'/18040, l='ServerLevel[world]', x=-98.37, y=67.94, z=-874.50] died, message: 'Hoc was slain by Rockmero'
+[24Dec2024 03:58:12.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 03:58:12.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 04:03:12.691] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 04:03:12.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
