@@ -570,3 +570,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [24Dec2024 02:25:08.153] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityLeafcutterAnt['Leafcutter Ant'/895, l='ServerLevel[world]', x=-103.71, y=66.00, z=-1044.49]
 [24Dec2024 02:25:49.846] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCapuchinMonkey['Capuchin Monkey'/1327, l='ServerLevel[world]', x=-338.41, y=65.00, z=-876.32]
 [24Dec2024 02:25:49.847] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCapuchinMonkey['Capuchin Monkey'/1336, l='ServerLevel[world]', x=-336.50, y=69.00, z=-782.50]
+[24Dec2024 02:35:11.844] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rockmero[/127.151.115.192:59341] logged in with entity id 16891 at (-124.37049997748822, 66.5, -809.9685690526517)
+[24Dec2024 02:35:11.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero joined the game
