@@ -4103,3 +4103,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [24Dec2024 03:26:02.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rockmero> como eso jsjs?
 [24Dec2024 03:26:05.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rockmero> quien
 [24Dec2024 03:26:09.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonimelalabo> necesito que tradee si porque da diamante
+[24Dec2024 03:28:12.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 03:28:12.714] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 03:33:12.696] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 03:33:12.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
