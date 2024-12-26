@@ -3922,3 +3922,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [26Dec2024 01:32:14.357] [Worker-Main-1/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
 [26Dec2024 01:32:14.370] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
 [26Dec2024 01:33:42.380] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:witchboss at BlockPos{x=-598, y=-39, z=-670} at Chest with:minecraft:chests/simple_dungeon
+[26Dec2024 01:34:45.329] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:vexboss at BlockPos{x=-747, y=-12, z=-1038} at Chest with:minecraft:chests/simple_dungeon
+[26Dec2024 01:35:19.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 01:35:19.514] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 01:35:27.964] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:pillagerboss at BlockPos{x=-807, y=-44, z=-922} at Chest with:minecraft:chests/simple_dungeon
+[26Dec2024 01:36:08.946] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=-843, y=62, z=-844} at Barrel with:minecraft:chests/shipwreck_supply
+[26Dec2024 01:36:21.987] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-819, y=-38, z=-798} at Chest with:minecraft:chests/simple_dungeon
+[26Dec2024 01:36:56.628] [Worker-Main-3/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[26Dec2024 01:38:10.370] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[26Dec2024 01:38:23.880] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Kex the Mean'/4963, l='ServerLevel[world]', x=-747.49, y=-7.99, z=-1043.52] died: Kex the Mean starved to death
+[26Dec2024 01:39:29.772] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[26Dec2024 01:40:19.369] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 01:40:19.383] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

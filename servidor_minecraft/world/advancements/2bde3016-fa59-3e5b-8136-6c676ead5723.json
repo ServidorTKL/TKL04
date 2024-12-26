@@ -5347,5 +5347,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-12-26 01:36:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-12-26 01:36:28 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

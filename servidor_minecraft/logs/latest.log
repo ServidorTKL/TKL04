@@ -563,3 +563,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [26Dec2024 01:26:54.492] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [26Dec2024 01:26:54.492] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [26Dec2024 01:26:54.493] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[26Dec2024 01:38:10.370] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[26Dec2024 01:38:23.880] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Kex the Mean'/4963, l='ServerLevel[world]', x=-747.49, y=-7.99, z=-1043.52] died: Kex the Mean starved to death
+[26Dec2024 01:39:29.772] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
