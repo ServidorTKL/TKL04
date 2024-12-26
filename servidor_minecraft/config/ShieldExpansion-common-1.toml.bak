@@ -1,12 +1,6 @@
 
 [ShieldList]
-	#
-	#List of items to considered as shields, any item with right-click functionality will theoretically work
-	#Automatically populated with items that have parrying stats set by active datapacks
-	shieldList = ["shieldexp:wooden_shield", "shieldexp:griefer_shield", "shieldexp:iron_shield", "shieldexp:netherite_shield", "alexsmobs:shield_of_the_deep"]
-	#
-	#List of items to not consider as shields, even if they have stats set by a datapack
-	shieldBlacklist = []
+	shieldList = ["shieldexp:diamond_shield", "shieldexp:paragon_shield"]
 
 [Modifiers]
 	#
