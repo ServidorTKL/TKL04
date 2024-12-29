@@ -4619,3 +4619,36 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [29Dec2024 04:11:27.600] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:shulkerboss at BlockPos{x=-1180, y=-18, z=-1776} at Chest with:minecraft:chests/simple_dungeon
 [29Dec2024 04:11:30.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rockmero: Teleported jonimelalabo to Rockmero]
 [29Dec2024 04:11:31.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo has made the advancement [Eye Spy]
+[29Dec2024 04:12:51.569] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Dec2024 04:12:52.333] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity IronGolem['Glem the Construct'/11066, l='ServerLevel[world]', x=-1055.10, y=9.00, z=-1819.32] died: Glem the Construct was slain by Rockmero
+[29Dec2024 04:15:00.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 04:15:00.210] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 04:17:25.365] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:endervindicatorboss at BlockPos{x=-823, y=33, z=-1685} at Chest with:minecraft:chests/simple_dungeon
+[29Dec2024 04:17:45.609] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=12, y=-58, z=24}
+[29Dec2024 04:17:45.610] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=13, y=-58, z=25}
+[29Dec2024 04:17:59.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rockmero moved too quickly! 0.24105098070526765,6.0,8.080342455858954
+[29Dec2024 04:17:59.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo moved too quickly! 10.028769300473641,-1.7522033402537254,0.5292950015784754
+[29Dec2024 04:17:59.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11813ms or 236 ticks behind
+[29Dec2024 04:18:23.578] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (-848 | 39 | -1607)
+[29Dec2024 04:18:23.590] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (-848 | 39 | -1607)
+[29Dec2024 04:18:23.591] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/fireplace at (-848 | 39 | -1607)
+[29Dec2024 04:18:23.593] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/fireplace at (-848 | 39 | -1607)
+[29Dec2024 04:18:49.023] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo lost connection: Disconnected
+[29Dec2024 04:18:49.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo left the game
+[29Dec2024 04:18:49.039] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rockmero lost connection: Disconnected
+[29Dec2024 04:18:49.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero left the game
+[29Dec2024 04:18:49.089] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27927ms or 558 ticks behind
+[29Dec2024 04:18:55.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29Dec2024 04:18:55.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Dec2024 04:18:55.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Dec2024 04:18:55.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Dec2024 04:18:55.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Dec2024 04:18:56.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Dec2024 04:18:56.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Dec2024 04:18:56.469] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 04:18:56.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 04:18:56.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Dec2024 04:18:56.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Dec2024 04:18:56.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Dec2024 04:18:56.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29Dec2024 04:18:56.659] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

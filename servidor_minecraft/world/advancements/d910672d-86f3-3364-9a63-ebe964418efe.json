@@ -994,6 +994,7 @@
       "minecraft:cave_spider": "2024-12-02 02:21:47 +0000",
       "minecraft:enderman": "2024-12-02 02:51:02 +0000",
       "minecraft:stray": "2024-12-02 02:45:40 +0000",
+      "minecraft:silverfish": "2024-12-29 04:11:08 +0000",
       "minecraft:vex": "2024-12-19 03:10:23 +0000",
       "minecraft:zombie": "2024-12-01 03:15:20 +0000",
       "minecraft:drowned": "2024-12-08 04:41:08 +0000"
@@ -5988,6 +5989,12 @@
   "ancient_elements:youdidnt_thinked_fast": {
     "criteria": {
       "youdidnt_thinked_fast": "2024-12-29 04:09:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-12-29 04:11:14 +0000"
     },
     "done": true
   },
