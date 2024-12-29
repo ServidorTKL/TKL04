@@ -571,3 +571,39 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [29Dec2024 03:39:25.290] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [29Dec2024 03:39:25.290] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [29Dec2024 03:39:25.290] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Dec2024 03:46:13.521] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Adefesio'/537, l='ServerLevel[world]', x=-158.47, y=80.00, z=-937.62] died, message: 'Adefesio was slain by Thung'
+[29Dec2024 03:46:13.524] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Adefesio'/537, l='ServerLevel[world]', x=-158.47, y=80.00, z=-937.62] died: Adefesio was slain by Thung
+[29Dec2024 03:46:13.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has completed the challenge [Friendly Fire!]
+[29Dec2024 03:47:49.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo has made the advancement [A Throwaway Joke]
+[29Dec2024 03:49:07.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonimelalabo> -1036 ~ -1804
+[29Dec2024 03:52:57.736] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: structory:harvest/well_bottoms
+[29Dec2024 03:53:35.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo moved too quickly! -8.122391147385713,0.41290928041701136,-6.014050385883365
+[29Dec2024 03:53:35.859] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2198ms or 43 ticks behind
+[29Dec2024 03:54:00.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rockmero moved too quickly! 0.6796615797634331,0.16610926093821377,-10.190590924472644
+[29Dec2024 03:54:00.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo moved too quickly! -7.37366745788853,0.0,-6.9422637419627335
+[29Dec2024 03:54:00.081] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8570ms or 171 ticks behind
+[29Dec2024 03:54:04.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rockmero moved too quickly! -6.568304595083305,-0.9229359775862633,-7.562494687323124
+[29Dec2024 03:54:16.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo moved too quickly! -2.483000201549771,2.249187078744683,-9.665921755050931
+[29Dec2024 03:54:16.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rockmero moved too quickly! -1.7079266914020081,0.0,-10.006758981030544
+[29Dec2024 03:54:22.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo moved too quickly! -1.0024276990332623,-1.164773281826072,-10.024609129509827
+[29Dec2024 03:54:22.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rockmero moved too quickly! -7.188535493389168,0.0,-7.060286446882628
+[29Dec2024 03:54:22.943] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7881ms or 157 ticks behind
+[29Dec2024 03:55:26.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo moved too quickly! -3.473113184906083,1.2491870787446828,-9.54977728578524
+[29Dec2024 03:55:26.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4359ms or 87 ticks behind
+[29Dec2024 03:56:08.618] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=12, y=-58, z=24}
+[29Dec2024 03:56:08.620] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=13, y=-58, z=25}
+[29Dec2024 03:56:33.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo moved too quickly! -9.544135074086057,-3.7461092740512356,0.009495853270436783
+[29Dec2024 03:56:33.727] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7315ms or 146 ticks behind
+[29Dec2024 03:56:33.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rockmero moved too quickly! -7.070798382773887,-0.2522033402537289,-7.510404382029947
+[29Dec2024 03:59:09.190] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rockmero moved too quickly! -9.369945711866421,0.07242780368044066,-3.8286947174369743
+[29Dec2024 03:59:09.219] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15108ms or 302 ticks behind
+[29Dec2024 03:59:09.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo moved too quickly! -9.758064320070048,-0.7477966597462711,2.6848181636401023
+[29Dec2024 04:00:15.166] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rockmero moved too quickly! 0.38078268780293456,-1.0,10.03138065248686
+[29Dec2024 04:00:15.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7866ms or 157 ticks behind
+[29Dec2024 04:00:22.312] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Dec2024 04:00:30.169] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo lost connection: Disconnected
+[29Dec2024 04:00:30.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo left the game
+[29Dec2024 04:00:30.249] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Dec2024 04:00:36.389] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonimelalabo[/127.240.179.130:35577] logged in with entity id 10240 at (-766.7923723190618, 71.0, -1907.699999988079)
+[29Dec2024 04:00:36.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo joined the game
+[29Dec2024 04:00:52.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonimelalabo> -1036 ~ -1804
