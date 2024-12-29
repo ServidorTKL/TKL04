@@ -5359,5 +5359,17 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-26 01:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-12-26 01:52:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
