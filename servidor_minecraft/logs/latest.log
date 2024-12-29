@@ -568,3 +568,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [29Dec2024 03:07:09.882] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonimelalabo[/127.240.179.130:54709] logged in with entity id 6989 at (-176.54062039796125, 68.0, -901.8307170201741)
 [29Dec2024 03:07:09.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo joined the game
 [29Dec2024 03:07:10.033] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[29Dec2024 03:16:21.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonimelalabo> -1036 -1804
