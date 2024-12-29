@@ -394,6 +394,7 @@
       "minecraft:birch_forest": "2024-12-19 02:52:46 +0000",
       "minecraft:windswept_hills": "2024-12-03 04:01:06 +0000",
       "minecraft:bamboo_jungle": "2024-12-03 02:31:59 +0000",
+      "minecraft:wooded_badlands": "2024-12-29 04:04:33 +0000",
       "minecraft:beach": "2024-12-01 02:32:22 +0000",
       "minecraft:dark_forest": "2024-12-19 02:53:48 +0000",
       "minecraft:mangrove_swamp": "2024-12-09 23:55:32 +0000",
@@ -5981,6 +5982,12 @@
   "mca:friendly_fire": {
     "criteria": {
       "male_fate": "2024-12-29 03:46:13 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:youdidnt_thinked_fast": {
+    "criteria": {
+      "youdidnt_thinked_fast": "2024-12-29 04:09:21 +0000"
     },
     "done": true
   },

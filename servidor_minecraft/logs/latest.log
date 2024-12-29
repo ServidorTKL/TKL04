@@ -607,3 +607,36 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [29Dec2024 04:00:36.389] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonimelalabo[/127.240.179.130:35577] logged in with entity id 10240 at (-766.7923723190618, 71.0, -1907.699999988079)
 [29Dec2024 04:00:36.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo joined the game
 [29Dec2024 04:00:52.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonimelalabo> -1036 ~ -1804
+[29Dec2024 04:02:09.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rockmero: Teleported Rockmero to -1035.500000, 70.000000, -1803.500000]
+[29Dec2024 04:02:09.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 50317ms or 1006 ticks behind
+[29Dec2024 04:02:09.640] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rockmero lost connection: Disconnected
+[29Dec2024 04:02:09.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero left the game
+[29Dec2024 04:02:09.657] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo lost connection: Disconnected
+[29Dec2024 04:02:09.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo left the game
+[29Dec2024 04:02:09.692] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@617136fb[id=<null>,name=jonimelalabo,properties={},legacy=false] (/127.240.179.130:33931) lost connection: Disconnected
+[29Dec2024 04:02:13.360] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonimelalabo[/127.240.179.130:33613] logged in with entity id 10517 at (-799.5102871247565, 71.0, -1902.7706725746646)
+[29Dec2024 04:02:13.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo joined the game
+[29Dec2024 04:02:27.333] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rockmero[/127.151.115.192:48761] logged in with entity id 10546 at (-1035.5, 70.0, -1803.5)
+[29Dec2024 04:02:27.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero joined the game
+[29Dec2024 04:02:43.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero suffocated in a wall
+[29Dec2024 04:02:51.702] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4491ms or 89 ticks behind
+[29Dec2024 04:04:00.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rockmero: Teleported Rockmero to -1035.500000, 80.000000, 0.180400]
+[29Dec2024 04:04:00.354] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25993ms or 519 ticks behind
+[29Dec2024 04:04:00.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo moved too quickly! -9.798460144378964,-2.0,1.5944932738148054
+[29Dec2024 04:04:00.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rockmero: Teleported Rockmero to -1035.500000, 80.000000, -1803.500000]
+[29Dec2024 04:04:00.610] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Dec2024 04:04:12.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero suffocated in a wall
+[29Dec2024 04:04:29.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonimelalabo moved too quickly! 6.706924990327934,-5.385759373429565,5.250792404216554
+[29Dec2024 04:04:30.075] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14763ms or 295 ticks behind
+[29Dec2024 04:04:32.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rockmero: Teleported Rockmero to -1035.500000, 100.000000, -1803.500000]
+[29Dec2024 04:04:44.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero suffocated in a wall
+[29Dec2024 04:04:56.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rockmero: Set own game mode to Creative Mode]
+[29Dec2024 04:04:58.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rockmero: Teleported Rockmero to -1035.500000, 100.000000, -1803.500000]
+[29Dec2024 04:05:12.532] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13621ms or 272 ticks behind
+[29Dec2024 04:06:09.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rockmero: Teleported jonimelalabo to Rockmero]
+[29Dec2024 04:06:21.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rockmero: Set own game mode to Survival Mode]
+[29Dec2024 04:09:21.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has reached the goal [You didn't Thinked Fast...]
+[29Dec2024 04:11:07.879] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=148, y=58, z=18}
+[29Dec2024 04:11:14.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rockmero has made the advancement [Eye Spy]
+[29Dec2024 04:11:30.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rockmero: Teleported jonimelalabo to Rockmero]
+[29Dec2024 04:11:31.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonimelalabo has made the advancement [Eye Spy]
