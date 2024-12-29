@@ -500,6 +500,7 @@
       "sweet_berries": "2024-12-01 22:55:52 +0000",
       "cooked_beef": "2024-12-01 03:04:50 +0000",
       "baked_potato": "2024-12-09 04:27:49 +0000",
+      "tropical_fish": "2024-12-29 03:20:47 +0000",
       "beetroot_soup": "2024-12-04 04:51:58 +0000",
       "apple": "2024-12-08 04:30:42 +0000",
       "potato": "2024-12-17 03:01:28 +0000",
@@ -508,6 +509,7 @@
       "golden_apple": "2024-12-01 23:00:03 +0000",
       "rotten_flesh": "2024-12-01 02:45:27 +0000",
       "glow_berries": "2024-12-01 22:55:00 +0000",
+      "salmon": "2024-12-29 03:21:00 +0000",
       "melon_slice": "2024-12-10 03:51:03 +0000",
       "golden_carrot": "2024-12-16 03:41:17 +0000",
       "beetroot": "2024-12-26 01:29:13 +0000",
@@ -5368,6 +5370,12 @@
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2024-12-26 01:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_the_recipe": "2024-12-29 03:21:03 +0000"
     },
     "done": true
   },
