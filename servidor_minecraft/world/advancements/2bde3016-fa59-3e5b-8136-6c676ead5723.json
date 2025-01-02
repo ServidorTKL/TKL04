@@ -409,6 +409,7 @@
       "minecraft:jungle": "2024-12-10 20:17:23 +0000",
       "minecraft:ocean": "2024-12-15 04:35:06 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-19 02:09:48 +0000",
+      "minecraft:deep_dark": "2025-01-02 03:28:55 +0000",
       "minecraft:meadow": "2024-12-03 04:29:49 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-04 03:32:10 +0000",
       "minecraft:savanna": "2024-12-15 04:32:18 +0000",
@@ -5386,21 +5387,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
-    "criteria": {
-      "has_red_sandstone": "2024-12-29 04:11:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
     "criteria": {
       "has_cut_red_sandstone": "2024-12-29 04:08:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_sandstone": {
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
     "criteria": {
-      "has_sand": "2024-12-29 04:11:10 +0000"
+      "has_cut_red_sandstone": "2024-12-29 04:08:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab": {
+    "criteria": {
+      "has_cut_red_sandstone": "2024-12-29 04:08:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_red_sandstone": "2024-12-29 04:08:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-29 04:11:03 +0000"
     },
     "done": true
   },
@@ -5422,21 +5435,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
-    "criteria": {
-      "has_cut_red_sandstone": "2024-12-29 04:08:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2024-12-29 04:11:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_red_sandstone_slab": {
-    "criteria": {
-      "has_cut_red_sandstone": "2024-12-29 04:08:49 +0000"
     },
     "done": true
   },
@@ -5449,12 +5450,6 @@
   "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2024-12-29 04:11:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/follow_ender_eye": {
-    "criteria": {
-      "in_stronghold": "2024-12-29 04:11:31 +0000"
     },
     "done": true
   },
@@ -5476,9 +5471,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting": {
+  "minecraft:recipes/building_blocks/red_sandstone": {
     "criteria": {
-      "has_cut_red_sandstone": "2024-12-29 04:08:49 +0000"
+      "has_sand": "2024-12-29 04:11:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-12-29 04:11:31 +0000"
     },
     "done": true
   },
