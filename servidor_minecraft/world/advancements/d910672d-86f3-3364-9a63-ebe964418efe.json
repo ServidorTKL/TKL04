@@ -992,6 +992,7 @@
       "minecraft:zombified_piglin": "2024-12-02 03:34:03 +0000",
       "minecraft:witch": "2024-12-17 01:32:16 +0000",
       "minecraft:wither_skeleton": "2024-12-02 04:15:38 +0000",
+      "minecraft:husk": "2025-01-02 03:31:15 +0000",
       "minecraft:cave_spider": "2024-12-02 02:21:47 +0000",
       "minecraft:enderman": "2024-12-02 02:51:02 +0000",
       "minecraft:stray": "2024-12-02 02:45:40 +0000",
@@ -5996,6 +5997,12 @@
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2024-12-29 04:11:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-01-02 03:32:56 +0000"
     },
     "done": true
   },
